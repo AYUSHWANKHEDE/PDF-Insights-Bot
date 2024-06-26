@@ -1,0 +1,8 @@
+```plaintext
+Flask==2.1.2
+PyPDF2==3.0.0
+langchain==0.0.145
+langchain-google-genai==0.0.6
+langchain-community==0.0.4
+faiss-cpu==1.7.2
+python-dotenv==1.0.0

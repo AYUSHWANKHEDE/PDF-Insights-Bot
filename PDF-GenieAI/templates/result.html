@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chat with PDF - Result</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+</head>
+<body>
+    <div class="container">
+        <h1>Result</h1>
+        <p><strong>Question:</strong> {{ question }}</p>
+        <p><strong>Answer:</strong> {{ response }}</p>
+        <a href="/">Back to Home</a>
+    </div>
+</body>
+</html>

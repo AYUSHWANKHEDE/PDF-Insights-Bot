@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ask a Question</title>
+    <link rel="stylesheet" href="/PDF-AnswerBot/static/styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Ask a Question</h1>
+        <form action="/ask" method="post">
+            <input type="hidden" name="text_file_path" value="{{ text_file_path }}">
+            <textarea name="question" placeholder="Enter your question here" required></textarea>
+            <button type="submit">Ask</button>
+        </form>
+    </div>
+</body>
+</html>

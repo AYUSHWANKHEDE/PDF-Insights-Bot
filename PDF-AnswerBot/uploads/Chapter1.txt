@@ -1,0 +1,1442 @@
+Chapter 1 | Units and Measurement 7
+1 | UNITS AND
+MEASUREMENT
+Figure 1.1 This image might be showing any number of things. It might be a whirlpool in a tank of water or perhaps a collage
+of paint and shiny beads done for art class. Without knowing the size of the object in units we all recognize, such as meters or
+inches, it is difficult to know what we’re looking at. In fact, this image shows the Whirlpool Galaxy (and its companion galaxy),
+which is about 60,000 light-years in diameter (about 6×1017 km across). (credit: modification of work by S. Beckwith
+(STScI) Hubble Heritage Team, (STScI/AURA), ESA, NASA)
+Chapter Outline
+1.1The Scope and Scale of Physics
+1.2Units and Standards
+1.3Unit Conversion
+1.4Dimensional Analysis
+1.5Estimates and Fermi Calculations
+1.6Significant Figures
+1.7Solving Problems in Physics
+Introduction
+Asnotedinthefigurecaption,thechapter-openingimageisoftheWhirlpoolGalaxy,whichweexamineinthefirstsection
+ofthischapter.Galaxiesareasimmenseasatomsaresmall,yetthesamelawsofphysicsdescribeboth,alongwithallthe
+restofnature—anindicationoftheunderlyingunityintheuniverse.Thelawsofphysicsaresurprisinglyfew,implyingan
+underlyingsimplicitytonature’sapparentcomplexity.Inthistext,youlearnaboutthelawsofphysics.Galaxiesandatoms
+mayseemfarremovedfromyourdailylife,butasyoubegintoexplorethisbroad-rangingsubject,youmaysooncometo8 Chapter 1 | Units and Measurement
+realize that physics plays a much larger role in your life than you first thought, no matter your life goals or career choice.
+1.1 | The Scope and Scale of Physics
+Learning Objectives
+By the end of this section, you will be able to:
+• Describe the scope of physics.
+• Calculate the order of magnitude of a quantity.
+• Compare measurable length, mass, and timescales quantitatively.
+• Describe the relationships among models, theories, and laws.
+Physicsisdevotedtotheunderstandingofallnaturalphenomena.Inphysics,wetrytounderstandphysicalphenomenaatall
+scales—fromtheworldofsubatomicparticlestotheentireuniverse.Despitethebreadthofthesubject,thevarioussubfields
+ofphysicsshareacommoncore.Thesamebasictraininginphysicswillprepareyoutoworkinanyareaofphysicsandthe
+relatedareasofscienceandengineering.Inthissection,weinvestigatethescopeofphysics;thescalesoflength,mass,and
+timeoverwhichthelawsofphysicshavebeenshowntobeapplicable;andtheprocessbywhichscienceingeneral,and
+physics in particular, operates.
+The Scope of Physics
+Takeanotherlookatthechapter-openingimage.TheWhirlpoolGalaxycontainsbillionsofindividualstarsaswellashuge
+clouds of gas and dust. Its companion galaxy is also visible to the right. This pair of galaxies lies a staggering billion
+trillion miles (1.4×1021mi) fromourowngalaxy (whichiscalled theMilky Way).Thestars andplanets that make up
+theWhirlpoolGalaxymightseemtobethefurthestthingfrommostpeople’severydaylives,buttheWhirlpoolisagreat
+startingpointtothinkabouttheforcesthatholdtheuniversetogether.TheforcesthatcausetheWhirlpoolGalaxytoactas
+itdoesarethoughttobethesameforceswecontendwithhereonEarth,whetherweareplanningtosendarocketintospace
+orsimplyplanningtoraisethewallsforanewhome.ThegravitythatcausesthestarsoftheWhirlpoolGalaxytorotateand
+revolveisthoughttobethesameaswhatcauseswatertoflowoverhydroelectricdamshereonEarth.Whenyoulookup
+atthestars,realizetheforcesouttherearethesameastheoneshereonEarth.Throughastudyofphysics,youmaygaina
+greater understanding of the interconnectedness of everything we can see and know in this universe.
+Think, now, about all the technological devices you use on a regular basis. Computers, smartphones, global positioning
+systems (GPSs), MP3 players, and satellite radio might come to mind. Then, think about the most exciting modern
+technologiesyouhaveheardaboutinthenews,suchastrainsthatlevitateabovetracks,“invisibilitycloaks”thatbendlight
+aroundthem,andmicroscopicrobotsthatfightcancercellsinourbodies.Allthesegroundbreakingadvances,commonplace
+orunbelievable,relyontheprinciplesofphysics.Asidefromplayingasignificantroleintechnology,professionalssuch
+asengineers,pilots,physicians,physicaltherapists,electricians,andcomputerprogrammersapplyphysicsconceptsintheir
+dailywork.Forexample,apilotmustunderstandhowwindforcesaffectaflightpath;aphysicaltherapistmustunderstand
+how the muscles in the body experience forces as they move and bend. As you will learn in this text, the principles of
+physics are propelling new, exciting technologies, and these principles are applied in a wide range of careers.
+Theunderlyingorderofnaturemakesscienceingeneral,andphysicsinparticular,interestingandenjoyabletostudy.For
+example, what do a bag of chips and a car battery have in common? Both contain energy that can be converted to other
+forms. The law of conservation of energy (which says that energy can change form but is never lost) ties together such
+topicsasfoodcalories,batteries,heat,light,andwatchsprings.Understandingthislawmakesiteasiertolearnaboutthe
+variousformsenergytakesandhowtheyrelatetooneanother.Apparentlyunrelatedtopicsareconnectedthroughbroadly
+applicable physical laws, permitting an understanding beyond just the memorization of lists of facts.
+Scienceconsistsoftheoriesandlawsthatarethegeneraltruthsofnature,aswellasthebodyofknowledgetheyencompass.
+Scientistsarecontinuouslytryingtoexpandthisbodyofknowledgeandtoperfecttheexpressionofthelawsthatdescribe
+it. Physics, which comes from the Greek phúsis, meaning “nature,” is concerned with describing the interactions of
+energy,matter,space,andtimetouncoverthefundamentalmechanismsthatunderlieeveryphenomenon.Thisconcernfor
+describing the basic phenomena in nature essentially defines thescope of physics.
+Physics aims to understand the world around us at the most basic level. It emphasizes the use of a small number of
+quantitativelawstodothis,whichcanbeusefultootherfieldspushingtheperformanceboundariesofexistingtechnologies.
+Considerasmartphone(Figure1.2).Physicsdescribeshowelectricityinteractswiththevariouscircuitsinsidethedevice.
+Thisknowledgehelpsengineersselecttheappropriatematerialsandcircuitlayoutwhenbuildingasmartphone.Knowledge
+This OpenStax book is available for free at http://cnx.org/content/col12031/1.10Chapter 1 | Units and Measurement 9
+ofthephysicsunderlyingthesedevicesisrequiredtoshrinktheirsizeorincreasetheirprocessingspeed.Or,thinkabouta
+GPS.Physicsdescribestherelationshipbetweenthespeedofanobject,thedistanceoverwhichittravels,andthetimeit
+takestotravelthatdistance.WhenyouuseaGPSinavehicle,itreliesonphysicsequationstodeterminethetraveltime
+from one location to another.
+Figure 1.2 The Apple iPhone is a common smartphone with a
+GPS function. Physics describes the way that electricity flows
+through the circuits of this device. Engineers use their
+knowledge of physics to construct an iPhone with features that
+consumers will enjoy. One specific feature of an iPhone is the
+GPS function. A GPS uses physics equations to determine the
+drive time between two locations on a map. (credit: Jane
+Whitney)
+Knowledge of physics is useful in everyday situations as well as in nonscientific professions. It can help you understand
+howmicrowaveovenswork,whymetalsshouldnotbeputintothem,andwhytheymightaffectpacemakers.Physicsallows
+youtounderstandthehazardsofradiationandtoevaluatethesehazardsrationallyandmoreeasily.Physicsalsoexplainsthe
+reasonwhyablackcarradiatorhelpsremoveheatinacarengine,anditexplainswhyawhiteroofhelpskeeptheinsideof
+ahousecool.Similarly,theoperationofacar’signitionsystemaswellasthetransmissionofelectricalsignalsthroughout
+our body’s nervous system are much easier to understand when you think about them in terms of basic physics.
+Physicsisakeyelementofmanyimportantdisciplinesandcontributesdirectlytoothers.Chemistry,forexample—since
+it deals with the interactions of atoms and molecules—has close ties to atomic and molecular physics. Most branches of
+engineeringareconcernedwithdesigningnewtechnologies,processes,orstructureswithintheconstraintssetbythelaws
+ofphysics.Inarchitecture,physicsisattheheartofstructuralstabilityandisinvolvedintheacoustics,heating,lighting,and
+coolingofbuildings.Partsofgeologyrelyheavilyonphysics,suchasradioactivedatingofrocks,earthquakeanalysis,and
+heattransferwithinEarth.Somedisciplines,suchasbiophysicsandgeophysics,arehybridsofphysicsandotherdisciplines.
+Physics has many applications in the biological sciences. On the microscopic level, it helps describe the properties of
+cells andtheir environments. Onthe macroscopic level, it explains the heat, work,andpower associated with the human
+bodyand its various organ systems. Physics is involved in medical diagnostics, such as radiographs, magnetic resonance
+imaging, and ultrasonic blood flow measurements. Medical therapy sometimes involves physics directly; for example,
+cancer radiotherapy uses ionizing radiation. Physics also explains sensory phenomena, such as how musical instruments
+make sound, how the eye detects color, and how lasers transmit information.
+Itisnotnecessarytostudyallapplicationsofphysicsformally.Whatismostusefulisknowingthebasiclawsofphysics
+and developing skills in the analytical methods for applying them. The study of physics also can improve your problem-
+solvingskills.Furthermore,physicsretainsthemostbasicaspectsofscience,soitisusedbyallthesciences,andthestudy
+of physics makes other sciences easier to understand.10 Chapter 1 | Units and Measurement
+The Scale of Physics
+Fromthediscussionsofar,itshouldbeclearthattoaccomplishyourgoalsinanyofthevariousfieldswithinthenatural
+sciencesandengineering,athoroughgroundinginthelawsofphysicsisnecessary.Thereasonforthisissimplythatthe
+lawsofphysicsgoverneverythingintheobservableuniverseatallmeasurablescalesoflength,mass,andtime.Now,that
+is easy enough to say, but to come to grips with what it really means, we need to get a little bit quantitative. So, before
+surveyingthevariousscalesthatphysicsallowsustoexplore,let’sfirstlookattheconceptof“orderofmagnitude,”which
+we use to come to terms with the vast ranges of length, mass, and time that we consider in this text (Figure 1.3).
+Figure 1.3 (a) Using a scanning tunneling microscope, scientists can see the individual atoms (diameters around 10–10m) that
+compose this sheet of gold. (b) Tiny phytoplankton swim among crystals of ice in the Antarctic Sea. They range from a few
+micrometers (1μm is 10–6m) to as much as 2 mm (1 mm is 10–3m) in length. (c) These two colliding galaxies, known as NGC
+4676A (right) and NGC 4676B (left), are nicknamed “The Mice” because of the tail of gas emanating from each one. They are
+located 300 million light-years from Earth in the constellation Coma Berenices. Eventually, these two galaxies will merge into
+one. (credit a: modification of work by "Erwinrossen"/Wikimedia Commons; credit b: modification of work by Prof. Gordon T.
+Taylor, Stony Brook University; NOAA Corps Collections; credit c: modification of work by NASA, H. Ford (JHU), G.
+Illingworth (UCSC/LO), M. Clampin (STScI), G. Hartig (STScI), the ACS Science Team, and ESA)
+Order of magnitude
+Theorderofmagnitudeofanumberisthepowerof10thatmostcloselyapproximatesit.Thus,theorderofmagnitude
+refers to the scale (or size) of a value. Each power of 10 represents a different order of magnitude. For example,
+101, 102, 103 , andsoforth,arealldifferentordersofmagnitude,asare 100 =1, 10−1, 10−2, and 10−3 . Tofindthe
+orderofmagnitudeofanumber,takethebase-10logarithmofthenumberandroundittothenearestinteger,thentheorder
+ofmagnitudeofthenumberissimplytheresultingpowerof10.Forexample,theorderofmagnitudeof800is103because
+log 800≈2.903, which rounds to 3. Similarly, the order of magnitude of 450 is 103 because log 450≈2.653,
+10 10
+whichroundsto3aswell.Thus,wesaythenumbers800and450areofthesameorderofmagnitude:103.However,the
+order of magnitude of 250 is 102because log 250≈2.397, which rounds to 2.
+10
+Anequivalentbutquickerwaytofindtheorderofmagnitudeofanumberisfirsttowriteitinscientificnotationandthen
+checktoseewhetherthefirstfactorisgreaterthanorlessthan 10=100.5 ≈3. Theideaisthat 10=100.5 ishalfway
+between 1=100 and 10=101 onalogbase-10scale.Thus,ifthefirstfactorislessthan 10, thenwerounditdown
+to1andtheorderofmagnitudeissimplywhateverpowerof10isrequiredtowritethenumberinscientificnotation.On
+theotherhand,ifthefirstfactorisgreaterthan 10, thenwerounditupto10andtheorderofmagnitudeisonepowerof
+10higherthanthepowerneededtowritethenumberinscientificnotation.Forexample,thenumber800canbewrittenin
+scientificnotationas 8×102. Because8isbiggerthan 10≈3, wesaytheorderofmagnitudeof800is 102+1 =103 .
+Thenumber450canbewrittenas 4.5×102, soitsorderofmagnitudeisalso103because4.5isgreaterthan3.However,
+250 written in scientific notation is 2.5×102 and 2.5 is less than 3, so its order of magnitude is 102.
+Theorderofmagnitudeofanumberisdesignedtobeaballparkestimateforthescale(orsize)ofitsvalue.Itissimplya
+wayofroundingnumbersconsistentlytothenearestpowerof10.Thismakesdoingroughmentalmathwithverybigand
+verysmallnumberseasier.Forexample,thediameterofahydrogenatomisontheorderof10−10m,whereasthediameter
+of the Sun is on the order of 109 m, so it would take roughly 109 /10−10 =1019 hydrogen atoms to stretch across the
+This OpenStax book is available for free at http://cnx.org/content/col12031/1.10Chapter 1 | Units and Measurement 11
+diameteroftheSun.Thisismucheasiertodoinyourheadthanusingthemoreprecisevaluesof 1.06×10−10 m fora
+hydrogenatomdiameterand 1.39×109 m fortheSun’sdiameter,tofindthatitwouldtake 1.31×1019 hydrogenatoms
+tostretchacrosstheSun’sdiameter.Inadditiontobeingeasier,theroughestimateisalsonearlyasinformativeastheprecise
+calculation.
+Known ranges of length, mass, and time
+Thevastnessoftheuniverseandthebreadthoverwhichphysicsappliesareillustratedbythewiderangeofexamplesof
+known lengths, masses, and times (given as orders of magnitude) in Figure 1.4. Examining this table will give you a
+feelingfortherangeofpossibletopicsinphysicsandnumericalvalues.Agoodwaytoappreciatethevastnessoftheranges
+of values inFigure 1.4is to try to answer some simple comparative questions, such as the following:
+• How many hydrogen atoms does it take to stretch across the diameter of the Sun?
+(Answer: 109m/10–10m = 1019hydrogen atoms)
+• How many protons are there in a bacterium?
+(Answer: 10–15kg/10–27kg = 1012protons)
+• How many floating-point operations can a supercomputer do in 1 day?
+(Answer: 105s/10–17s = 1022floating-point operations)
+InstudyingFigure 1.4,takesometimetocomeupwithsimilarquestionsthatinterestyouandthentryansweringthem.
+Doing this can breathe some life into almost any table of numbers.12 Chapter 1 | Units and Measurement
+Figure 1.4 This table shows the orders of magnitude of length, mass, and time.
+Visitthissite(https://openstaxcollege.org/l/21scaleuniv)toexploreinteractivelythevastrangeoflength
+scalesinouruniverse.Scrolldownandupthescaletoviewhundredsoforganismsandobjects,andclickonthe
+individual objects to learn more about each one.
+Building Models
+How did we come to know the laws governing natural phenomena? What we refer to as the laws of nature are concise
+descriptionsoftheuniversearoundus.Theyarehumanstatementsoftheunderlyinglawsorrulesthatallnaturalprocesses
+follow.Suchlawsareintrinsictotheuniverse;humansdidnotcreatethemandcannotchangethem.Wecanonlydiscover
+andunderstand them. Their discovery is averyhuman endeavor,with all the elements ofmystery,imagination, struggle,
+triumph,anddisappointment inherentinanycreative effort(Figure 1.5).Thecornerstoneofdiscoveringnaturallawsis
+observation; scientists must describe the universe as it is, not as we imagine it to be.
+This OpenStax book is available for free at http://cnx.org/content/col12031/1.10Chapter 1 | Units and Measurement 13
+Figure 1.5 (a) EnricoFermi(1901–1954) was born in Italy. On accepting the Nobel Prize in
+Stockholm in 1938 for his work on artificial radioactivity produced by neutrons, he took his
+family to America rather than return home to the government in power at the time. He became an
+American citizen and was a leading participant in the Manhattan Project. (b) MarieCurie
+(1867–1934) sacrificed monetary assets to help finance her early research and damaged her
+physical well-being with radiation exposure. She is the only person to win Nobel prizes in both
+physics and chemistry. One of her daughters also won a Nobel Prize. (credit a: modification of
+work by United States Department of Energy)
+Amodel is a representation ofsomething that is often too difficult (orimpossible) to display directly.Although a model
+isjustifiedbyexperimentaltests,itisonlyaccurateindescribingcertainaspectsofaphysicalsystem.Anexampleisthe
+Bohrmodelofsingle-electronatoms,inwhichtheelectronispicturedasorbitingthenucleus,analogoustothewayplanets
+orbit the Sun (Figure 1.6). We cannot observe electron orbits directly, but the mental image helps explain some of the
+observations we can make, such as the emission of light from hot gases (atomic spectra). However, other observations
+show that the picture in the Bohr model is not really what atoms look like. The model is “wrong,” but is still useful for
+somepurposes.Physicistsusemodelsforavarietyofpurposes.Forexample,modelscanhelpphysicistsanalyzeascenario
+andperformacalculationormodelscanbeusedtorepresentasituationintheformofacomputersimulation.Ultimately,
+however,theresultsofthesecalculationsandsimulationsneedtobedouble-checkedbyothermeans—namely,observation
+and experimentation.
+Figure 1.6 What is a model? The Bohr model of a single-
+electron atom shows the electron orbiting the nucleus in one of
+several possible circular orbits. Like all models, it captures
+some, but not all, aspects of the physical system.14 Chapter 1 | Units and Measurement
+The word theory means something different to scientists than what is often meant when the word is used in everyday
+conversation. In particular, to a scientist a theory is not the same as a “guess” or an “idea” or even a “hypothesis.” The
+phrase“it’sjustatheory”seemsmeaninglessandsillytoscientistsbecausescienceisfoundedonthenotionoftheories.To
+ascientist,atheoryisatestableexplanationforpatternsinnaturesupportedbyscientific evidenceandverifiedmultiple
+timesbyvariousgroupsofresearchers.Sometheoriesincludemodelstohelpvisualizephenomenawhereasothersdonot.
+Newton’s theory of gravity, for example, does not require a model or mental image, because we can observe the objects
+directlywithourownsenses.Thekinetictheoryofgases,ontheotherhand,isamodelinwhichagasisviewedasbeing
+composedofatomsandmolecules.Atomsandmoleculesaretoosmalltobeobserveddirectlywithoursenses—thus,we
+picturethemmentallytounderstandwhattheinstrumentstellusaboutthebehaviorofgases.Althoughmodelsaremeant
+onlytodescribecertainaspectsofaphysicalsystemaccurately,atheoryshoulddescribeallaspectsofanysystemthatfalls
+withinitsdomainofapplicability.Inparticular,anyexperimentallytestableimplicationofatheoryshouldbeverified.Ifan
+experimentevershowsanimplicationofatheorytobefalse,thenthetheoryiseitherthrownoutormodifiedsuitably(for
+example, by limiting its domain of applicability).
+A law uses concise language to describe a generalized pattern in nature supported by scientific evidence and repeated
+experiments. Often, alaw can beexpressed inthe formofasingle mathematical equation. Laws andtheories are similar
+in that they are both scientific statements that result from a tested hypothesis and are supported by scientific evidence.
+However, the designation law is usually reserved for a concise and very general statement that describes phenomena in
+nature,suchasthelawthatenergyisconservedduringanyprocess,orNewton’ssecondlawofmotion,whichrelatesforce
+(F), mass (m), and acceleration (a) by the simple equation F =ma. A theory, in contrast, is a less concise statement of
+observedbehavior.Forexample,thetheoryofevolutionandthetheoryofrelativitycannotbeexpressedconciselyenoughto
+beconsideredlaws.Thebiggestdifferencebetweenalawandatheoryisthatatheoryismuchmorecomplexanddynamic.
+Alawdescribesasingleactionwhereasatheoryexplainsanentiregroupofrelatedphenomena.Lessbroadlyapplicable
+statementsareusuallycalledprinciples(suchasPascal’sprinciple,whichisapplicableonlyinfluids),butthedistinction
+between laws and principles often is not made carefully.
+The models, theories, and laws we devise sometimes imply the existence of objects or phenomena that are as yet
+unobserved.Thesepredictions areremarkable triumphsandtributestothepowerofscience. Itistheunderlyingorderin
+theuniversethatenablesscientiststomakesuchspectacularpredictions.However,ifexperimentationdoesnotverifyour
+predictions, then the theory or law is wrong, no matter how elegant or convenient it is. Laws can never be known with
+absolute certainty because it is impossible to perform every imaginable experiment to confirm a law for every possible
+scenario. Physicists operate under the assumption that all scientific laws and theories are valid until a counterexample is
+observed.Ifagood-quality,verifiableexperimentcontradictsawell-establishedlawortheory,thenthelawortheorymust
+be modified or overthrown completely.
+Thestudyofscienceingeneral,andphysicsinparticular,isanadventuremuchliketheexplorationofanunchartedocean.
+Discoveries are made; models, theories, and laws are formulated; and the beauty of the physical universe is made more
+sublime for the insights gained.
+1.2 | Units and Standards
+Learning Objectives
+By the end of this section, you will be able to:
+• Describe how SI base units are defined.
+• Describe how derived units are created from base units.
+• Express quantities given in SI units using metric prefixes.
+Aswesawpreviously,therangeofobjectsandphenomenastudiedinphysicsisimmense.Fromtheincrediblyshortlifetime
+ofanucleustotheageofEarth,fromthetinysizesofsubnuclearparticlestothevastdistancetotheedgesoftheknown
+universe,fromtheforceexertedbyajumpingfleatotheforcebetweenEarthandtheSun,thereareenoughfactorsof10
+to challenge the imagination of even the most experienced scientist. Giving numerical values for physical quantities and
+equationsforphysicalprinciplesallowsustounderstandnaturemuchmoredeeplythanqualitativedescriptionsalone.To
+comprehendthesevastranges,wemustalsohaveacceptedunitsinwhichtoexpressthem.Weshallfindthateveninthe
+potentially mundane discussion of meters, kilograms, and seconds, a profound simplicity of nature appears: all physical
+quantities can be expressed as combinations of only seven base physical quantities.
+This OpenStax book is available for free at http://cnx.org/content/col12031/1.10Chapter 1 | Units and Measurement 15
+We define a physical quantity either by specifying how it is measured or by stating how it is calculated from other
+measurements.Forexample,wemightdefinedistanceandtimebyspecifyingmethodsformeasuringthem,suchasusing
+a meter stick and a stopwatch. Then, we could define average speed by stating that it is calculated as the total distance
+traveled divided by time of travel.
+Measurementsofphysicalquantitiesareexpressedintermsofunits,whicharestandardizedvalues.Forexample,thelength
+ofarace,whichisaphysicalquantity,canbeexpressedinunitsofmeters(forsprinters)orkilometers(fordistancerunners).
+Without standardized units, it would be extremely difficult for scientists to express and compare measured values in a
+meaningful way (Figure 1.7).
+Figure 1.7 Distances given in unknown units are maddeningly
+useless.
+Two major systems of units are used in the world: SI units (for the French Système International d’Unités), also known
+asthemetricsystem,andEnglishunits(alsoknownasthecustomaryorimperialsystem).Englishunitswerehistorically
+usedinnationsonceruledbytheBritishEmpireandarestillwidelyusedintheUnitedStates.Englishunitsmayalsobe
+referredtoasthefoot–pound–second(fps)system,asopposedtothecentimeter–gram–second(cgs)system.Youmayalso
+encounterthetermSAEunits,namedaftertheSocietyofAutomotiveEngineers.Productssuchasfastenersandautomotive
+tools(forexample,wrenches)thataremeasuredininchesratherthanmetricunitsarereferredtoasSAEfastenersorSAE
+wrenches.
+Virtuallyeveryothercountryintheworld(excepttheUnitedStates)nowusesSIunitsasthestandard.Themetricsystem
+is also the standard system agreed on by scientists and mathematicians.
+SI Units: Base and Derived Units
+Inanysystemofunits,theunitsforsomephysicalquantitiesmustbedefinedthroughameasurement process.Theseare
+called the base quantities for that system and their units are the system’s base units. All other physical quantities can
+then be expressed as algebraic combinations of the base quantities. Each of these physical quantities is then known as a
+derivedquantityandeachunitiscalledaderivedunit.Thechoiceofbasequantitiesissomewhatarbitrary,aslongasthey
+areindependentofeachotherandallotherquantitiescanbederivedfromthem.Typically,thegoalistochoosephysical
+quantitiesthatcanbemeasuredaccuratelytoahighprecisionasthebasequantities.Thereasonforthisissimple.Sincethe
+derivedunitscanbeexpressedasalgebraiccombinationsofthebaseunits,theycanonlybeasaccurateandpreciseasthe
+base units from which they are derived.
+Based on such considerations, the International Standards Organization recommends using seven base quantities, which
+formtheInternationalSystemofQuantities(ISQ).ThesearethebasequantitiesusedtodefinetheSIbaseunits.Table1.1
+lists these seven ISQ base quantities and the corresponding SI base units.
+ISQ Base Quantity SI Base Unit
+Length meter (m)
+Mass kilogram (kg)
+Time second (s)
+Table 1.1ISQ Base Quantities and Their SI Units16 Chapter 1 | Units and Measurement
+ISQ Base Quantity SI Base Unit
+Electrical current ampere (A)
+Thermodynamic temperature kelvin (K)
+Amount of substance mole (mol)
+Luminous intensity candela (cd)
+Table 1.1ISQ Base Quantities and Their SI Units
+YouareprobablyalreadyfamiliarwithsomederivedquantitiesthatcanbeformedfromthebasequantitiesinTable 1.1.
+For example, the geometric concept of area is always calculated as the product of two lengths. Thus, area is a derived
+quantitythatcanbeexpressedintermsofSIbaseunitsusingsquaremeters (m×m=m2). Similarly,volumeisaderived
+quantity that can be expressed in cubic meters (m3 ). Speed is length per time; so in terms of SI base units, we could
+measure it in meters per second (m/s). Volume mass density (or just density) is mass per volume, which is expressed in
+terms of SI base units such as kilograms per cubic meter (kg/m3). Angles can also be thought of as derived quantities
+becausetheycanbedefinedastheratioofthearclengthsubtendedbytworadiiofacircletotheradiusofthecircle.This
+ishowtheradianisdefined.Dependingonyourbackgroundandinterests,youmaybeabletocomeupwithotherderived
+quantities,suchasthemassflowrate(kg/s)orvolumeflowrate(m3/s)ofafluid,electriccharge (A·s), massfluxdensity
+[kg/(m2·s)], andsoon.Wewillseemanymoreexamplesthroughoutthistext.Fornow,thepointisthateveryphysical
+quantitycanbederivedfromthesevenbasequantitiesinTable1.1,andtheunitsofeveryphysicalquantitycanbederived
+from the seven SI base units.
+Forthemostpart,weuseSIunitsinthistext.Non-SIunitsareusedinafewapplicationsinwhichtheyareinverycommon
+use,suchasthemeasurementoftemperatureindegreesCelsius (°C), themeasurementoffluidvolumeinliters(L),and
+themeasurementofenergiesofelementaryparticlesinelectron-volts(eV).Whenevernon-SIunitsarediscussed,theyare
+tied to SI units through conversions. For example, 1 L is 10−3 m3 .
+CheckoutacomprehensivesourceofinformationonSIunits(https://openstaxcollege.org/l/21SIUnits)at
+the National Institute of Standards and Technology (NIST) Reference on Constants, Units, and Uncertainty.
+Units of Time, Length, and Mass: The Second, Meter, and Kilogram
+Theinitialchaptersinthistextbookareconcernedwithmechanics,fluids,andwaves.Inthesesubjectsallpertinentphysical
+quantitiescanbeexpressedintermsofthebaseunitsoflength,mass,andtime.Therefore,wenowturntoadiscussionof
+these three base units, leaving discussion of the others until they are needed later.
+The second
+TheSIunitfortime,thesecond(abbreviateds),hasalonghistory.Formanyyearsitwasdefinedas1/86,400ofamean
+solar day. More recently, a new standard was adopted to gain greater accuracy and to define the second in terms of a
+nonvaryingorconstantphysicalphenomenon(becausethesolardayisgettinglongerasaresultoftheverygradualslowing
+ofEarth’srotation).Cesiumatomscanbemadetovibrateinaverysteadyway,andthesevibrationscanbereadilyobserved
+andcounted.In1967,thesecondwasredefinedasthetimerequiredfor9,192,631,770ofthesevibrationstooccur(Figure
+1.8). Note that this may seem like more precision than you would ever need, but it isn’t—GPSs rely on the precision of
+atomicclockstobeabletogiveyouturn-by-turndirectionsonthesurfaceofEarth,farfromthesatellitesbroadcastingtheir
+location.
+This OpenStax book is available for free at http://cnx.org/content/col12031/1.10Chapter 1 | Units and Measurement 17
+Figure 1.8 An atomic clock such as this one uses the
+vibrations of cesium atoms to keep time to a precision of better
+than a microsecond per year. The fundamental unit of time, the
+second, is based on such clocks. This image looks down from
+the top of an atomic fountain nearly 30 feet tall. (credit: Steve
+Jurvetson)
+The meter
+TheSIunitforlengthisthemeter(abbreviatedm);itsdefinitionhasalsochangedovertimetobecomemoreprecise.The
+meterwasfirstdefinedin1791as1/10,000,000ofthedistancefromtheequatortotheNorthPole.Thismeasurementwas
+improved in 1889byredefining the meter to be the distance between two engraved lines ona platinum–iridium bar now
+keptnearParis.By1960,ithadbecomepossibletodefinethemeterevenmoreaccuratelyintermsofthewavelengthof
+light,soitwasagainredefinedas1,650,763.73wavelengthsoforangelightemittedbykryptonatoms.In1983,themeter
+wasgivenitscurrentdefinition(inpartforgreateraccuracy)asthedistancelighttravelsinavacuumin1/299,792,458ofa
+second(Figure1.9).Thischangecameafterknowingthespeedoflighttobeexactly299,792,458m/s.Thelengthofthe
+meter will change if the speed of light is someday measured with greater accuracy.
+Figure 1.9 The meter is defined to be the distance light travels in 1/299,792,458 of a second in a vacuum. Distance
+traveled is speed multiplied by time.
+The kilogram
+The SI unit for mass is the kilogram (abbreviated kg); it is defined to be the mass of a platinum–iridium cylinder
+kept with the old meter standard at the International Bureau of Weights and Measures near Paris. Exact replicas of the
+standardkilogramarealsokeptattheU.S.NationalInstituteofStandardsandTechnology(NIST),locatedinGaithersburg,
+Maryland,outsideofWashington,DC,andatotherlocationsaroundtheworld.ScientistsatNISTarecurrentlyinvestigating
+twocomplementarymethodsofredefiningthekilogram(seeFigure 1.10).Thedeterminationofallothermassescanbe
+traced ultimately to a comparison with the standard mass.
+ThereiscurrentlyanefforttoredefinetheSIunitofmassintermsofmorefundamentalprocessesby2018.You
+can explore the history of mass standards and the contenders in the quest to devise a new one at the website
+(https://www.nist.gov/pml/productsservices/redefining-kilogram) of the Physical Measurement
+Laboratory.18 Chapter 1 | Units and Measurement
+Figure 1.10 Redefining the SI unit of mass. Complementary methods are being investigated for use in an upcoming
+redefinition of the SI unit of mass. (a) The U.S. National Institute of Standards and Technology’s watt balance is a machine that
+balances the weight of a test mass against the current and voltage (the “watt”) produced by a strong system of magnets. (b) The
+International Avogadro Project is working to redefine the kilogram based on the dimensions, mass, and other known properties of
+a silicon sphere. (credit a and credit b: modification of work by National Institute of Standards and Technology)
+Metric Prefixes
+SIunitsarepartofthemetricsystem,whichisconvenientforscientificandengineeringcalculationsbecausetheunitsare
+categorizedbyfactorsof10.Table1.2liststhemetricprefixesandsymbolsusedtodenotevariousfactorsof10inSIunits.
+Forexample,acentimeterisone-hundredthofameter(insymbols,1cm=10–2m)andakilometerisathousandmeters(1
+km=103m).Similarly,amegagramisamilliongrams(1Mg=106g),ananosecondisabillionthofasecond(1ns=10–9
+s), and a terameter is a trillion meters (1 Tm = 1012m).
+Prefix Symbol Meaning Prefix Symbol Meaning
+yotta- Y 1024 yocto- y 10–24
+zetta- Z 1021 zepto- z 10–21
+exa- E 1018 atto- a 10–18
+peta- P 1015 femto- f 10–15
+tera- T 1012 pico- p 10–12
+giga- G 109 nano- n 10–9
+mega- M 106 micro- µ 10–6
+kilo- k 103 milli- m 10–3
+hecto- h 102 centi- c 10–2
+deka- da 101 deci- d 10–1
+Table 1.2Metric Prefixes for Powers of 10 and Their Symbols
+Theonlyrulewhenusingmetricprefixesisthatyoucannot“doublethemup.”Forexample,ifyouhavemeasurementsin
+petameters(1Pm=1015m),itisnotpropertotalkaboutmegagigameters,although 106 ×109 =1015 . Inpractice,the
+This OpenStax book is available for free at http://cnx.org/content/col12031/1.10Chapter 1 | Units and Measurement 19
+onlytimethisbecomesabitconfusingiswhendiscussingmasses.Aswehaveseen,thebaseSIunitofmassisthekilogram
+(kg),butmetricprefixesneedtobeappliedtothegram(g),becausewearenotallowedto“double-up”prefixes.Thus,a
+thousand kilograms (103kg) is written as a megagram (1 Mg) since
+3 3 3 6
+10 kg=10 ×10 g=10 g=1Mg.
+Incidentally, 103 kg is also called a metric ton, abbreviated t. This is one of the units outside the SI system considered
+acceptable for use with SI units.
+Asweseeinthenextsection,metricsystemshavetheadvantagethatconversionsofunitsinvolveonlypowersof10.There
+are100cmin1m,1000min1km,andsoon.Innonmetricsystems,suchastheEnglishsystemofunits,therelationships
+are not as simple—there are 12 in. in 1 ft, 5280 ft in 1 mi, and so on.
+Another advantage of metric systems is that the same unit can be used over extremely large ranges of values simply by
+scalingitwithanappropriatemetricprefix.Theprefixischosenbytheorderofmagnitudeofphysicalquantitiescommonly
+foundinthetaskathand.Forexample,distancesinmetersaresuitableinconstruction,whereasdistancesinkilometersare
+appropriateforairtravel,andnanometersareconvenientinopticaldesign.Withthemetricsystemthereisnoneedtoinvent
+new units for particular applications. Instead, we rescale the units with which we are already familiar.
+Example 1.1
+Using Metric Prefixes
+Restatethemass 1.93×1013 kg usingametricprefixsuchthattheresultingnumericalvalueisbiggerthanone
+but less than 1000.
+Strategy
+Since we are not allowed to “double-up” prefixes, we first need to restate the mass in grams by replacing the
+prefixsymbolkwithafactorof103(seeTable1.2).Then,weshouldseewhichtwoprefixesinTable1.2are
+closesttotheresultingpowerof10whenthenumberiswritteninscientificnotation.Weusewhicheverofthese
+two prefixes gives us a number between one and 1000.
+Solution
+Replacing the k in kilogram with a factor of 103, we find that
+13 13 3 16
+1.93×10 kg=1.93×10 ×10 g=1.93×10 g.
+FromTable1.2,weseethat1016isbetween“peta-”(1015)and“exa-”(1018).Ifweusethe“peta-”prefix,then
+wefindthat 1.93×1016 g=1.93×101Pg, since 16=1+15. Alternatively,ifweusethe“exa-”prefixwe
+findthat 1.93×1016 g=1.93×10−2Eg, since 16=−2+18. Becausetheproblemasksforthenumerical
+value between one and 1000, we use the “peta-” prefix and the answer is 19.3 Pg.
+Significance
+Itiseasytomakesillyarithmeticerrorswhenswitchingfromoneprefixtoanother,soitisalwaysagoodideato
+checkthatourfinalanswermatchesthenumberwestartedwith.Aneasywaytodothisistoputbothnumbersin
+scientificnotationandcountpowersof10,includingtheoneshiddeninprefixes.Ifwedidnotmakeamistake,
+the powers of 10 should match up. In this problem, we started with 1.93×1013 kg, so we have 13 + 3 = 16
+powersof10.Ourfinalanswerinscientificnotationis 1.93×101 Pg,sowehave1+15=16powersof10.So,
+everything checks out.
+Ifthismassarosefromacalculation,wewouldalsowanttochecktodeterminewhetheramassthislargemakes
+any sense in the context of the problem. For this,Figure 1.4might be helpful.
+1.1 CheckYourUnderstandingRestate 4.79×105 kg usingametricprefixsuchthattheresultingnumber
+is bigger than one but less than 1000.20 Chapter 1 | Units and Measurement
+1.3 | Unit Conversion
+Learning Objectives
+By the end of this section, you will be able to:
+• Use conversion factors to express the value of a given quantity in different units.
+It is often necessary to convert from one unit to another. For example, if you are reading a European cookbook, some
+quantities may be expressed in units of liters and you need to convert them to cups. Or perhaps you are reading walking
+directionsfromonelocationtoanotherandyouareinterestedinhowmanymilesyouwillbewalking.Inthiscase,youmay
+need to convert units of feet or meters to miles.
+Let’sconsiderasimpleexampleofhowtoconvertunits.Supposewewanttoconvert80mtokilometers.Thefirstthingto
+doistolisttheunitsyouhaveandtheunitstowhichyouwanttoconvert.Inthiscase,wehaveunitsinmetersandwewant
+toconverttokilometers.Next,weneedtodetermineaconversionfactorrelatingmeterstokilometers.Aconversionfactor
+isaratiothatexpresseshowmanyofoneunitareequaltoanotherunit.Forexample,thereare12in.in1ft,1609min1
+mi,100cmin1m,60sin1min,andsoon.RefertoAppendixBforamorecompletelistofconversionfactors.Inthis
+case,weknowthatthereare1000min1km.Nowwecansetupourunitconversion.Wewritetheunitswehaveandthen
+multiply them by the conversion factor so the units cancel out, as shown:
+1km
+80m× =0.080km.
+1000m
+Note that the unwanted meter unit cancels, leaving only the desired kilometer unit. You can use this method to convert
+betweenanytypeofunit.Now,theconversionof80mtokilometersissimplytheuseofametricprefix,aswesawinthe
+preceding section, so we can get the same answer just as easily by noting that
+80m=8.0×101m=8.0×10−2km=0.080km,
+since“kilo-”means103(seeTable 1.2)and 1=−2+3. However,usingconversionfactorsishandywhenconverting
+between units that are not metric or when converting between derived units, as the following examples illustrate.
+Example 1.2
+Converting Nonmetric Units to Metric
+Thedistancefromtheuniversitytohomeis10mianditusuallytakes20mintodrivethisdistance.Calculatethe
+average speed in meters per second (m/s). (Note:Average speed is distance traveled divided by time of travel.)
+Strategy
+First we calculate the average speed using the given units, then we can get the average speed into the desired
+unitsbypickingthecorrectconversionfactorsandmultiplyingbythem.Thecorrectconversionfactorsarethose
+thatcanceltheunwantedunitsandleavethedesiredunitsintheirplace.Inthiscase,wewanttoconvertmilesto
+meters,soweneedtoknowthefactthatthereare1609min1mi.Wealsowanttoconvertminutestoseconds,
+so we use the conversion of 60 s in 1 min.
+Solution
+1. Calculateaveragespeed.Averagespeedisdistancetraveleddividedbytimeoftravel.(Takethisdefinition
+asagivenfornow.Averagespeedandothermotionconceptsarecoveredinlaterchapters.)Inequation
+form,
+Distance
+Average speed = .
+Time
+2. Substitute the given values for distance and time:
+10mi mi
+Average speed = =0.50 .
+20min min
+3. Convertmilesperminutetometerspersecondbymultiplyingbytheconversionfactorthatcancelsmiles
+and leave meters, and also by the conversion factor that cancels minutes and leave seconds:
+This OpenStax book is available for free at http://cnx.org/content/col12031/1.10Chapter 1 | Units and Measurement 21
+mile 1609m 1min (0.50)(1609)
+0.50 × × = m/s=13m/s.
+min 1mile 60s 60
+Significance
+Check the answer in the following ways:
+1. Besuretheunitsintheunitconversioncancelcorrectly.Iftheunitconversionfactorwaswrittenupside
+down, the units do not cancel correctly in the equation. We see the “miles” in the numerator in 0.50
+mi/min cancels the “mile” in the denominator in the first conversion factor. Also, the “min” in the
+denominator in 0.50 mi/min cancels the “min” in the numerator in the second conversion factor.
+2. Checkthattheunitsofthefinalanswerarethedesiredunits.Theproblemaskedustosolveforaverage
+speedinunitsofmeterspersecondand,afterthecancellations,theonlyunitsleftareameter(m)inthe
+numerator and a second (s) in the denominator, so we have indeed obtained these units.
+1.2 CheckYourUnderstandingLighttravelsabout9Pminayear.Giventhatayearisabout 3×107 s,
+what is the speed of light in meters per second?
+Example 1.3
+Converting between Metric Units
+The density of iron is 7.86g/cm3 under standard conditions. Convert this to kg/m3.
+Strategy
+Weneedtoconvertgramstokilogramsandcubiccentimeterstocubicmeters.Theconversionfactorsweneedare
+1kg=103 g and 1cm=10−2m. However,wearedealingwithcubiccentimeters (cm3 =cm×cm×cm),
+sowehavetousethesecondconversionfactorthreetimes(thatis,weneedtocubeit).Theideaisstilltomultiply
+bytheconversionfactorsinsuchawaythattheycanceltheunitswewanttogetridofandintroducetheunitswe
+want to keep.
+Solution
+3
+g kg ⎛ cm ⎞ 7.86 3 3 3
+7.86 × × = kg/m =7.86×10 kg/m
+cm3 103
+g
+⎝ 10−2m⎠ (103 )(10−6
+)
+Significance
+Remember, it’s always important to check the answer.
+1. Besuretocanceltheunitsintheunitconversioncorrectly.Weseethatthegram(“g”)inthenumerator
+in7.86g/cm3cancelsthe“g”inthedenominatorinthefirstconversionfactor.Also,thethreefactorsof
+“cm”inthedenominatorin7.86g/cm3cancelwiththethreefactorsof“cm”inthenumeratorthatweget
+by cubing the second conversion factor.
+2. Check that the units of the final answer are the desired units. The problem asked for us to convert to
+kilogramspercubicmeter.Afterthecancellationsjustdescribed,weseetheonlyunitswehaveleftare
+“kg”inthenumeratorandthreefactorsof“m”inthedenominator(thatis,onefactorof“m”cubed,or
+“m3”). Therefore, the units on the final answer are correct.
+1.3 CheckYourUnderstandingWeknowfromFigure1.4thatthediameterofEarthisontheorderof107
+m,sotheorderofmagnitudeofitssurfaceareais1014m2.Whatisthatinsquarekilometers(thatis,km2)?(Try
+doing this both by converting 107 m to km and then squaring it and then by converting 1014 m2 directly to
+square kilometers. You should get the same answer both ways.)
+Unitconversionsmaynotseemveryinteresting,butnotdoingthemcanbecostly.Onefamousexampleofthissituationwas22 Chapter 1 | Units and Measurement
+seenwiththeMarsClimateOrbiter.ThisprobewaslaunchedbyNASAonDecember11,1998.OnSeptember23,1999,
+whileattemptingtoguidetheprobeintoitsplannedorbitaroundMars,NASAlostcontactwithit.Subsequentinvestigations
+showedapieceofsoftwarecalledSM_FORCES(or“smallforces”)wasrecordingthrusterperformancedataintheEnglish
+unitsofpound-seconds(lb-s).However,otherpiecesofsoftwarethatusedthesevaluesforcoursecorrectionsexpectedthem
+toberecordedintheSIunitsofnewton-seconds(N-s),asdictatedinthesoftwareinterfaceprotocols.Thiserrorcausedthe
+probetofollowaverydifferenttrajectoryfromwhatNASAthoughtitwasfollowing,whichmostlikelycausedtheprobe
+eithertoburnupintheMartianatmosphereortoshootoutintospace.Thisfailuretopayattentiontounitconversionscost
+hundreds of millions of dollars, not to mention all the time invested by the scientists and engineers who worked on the
+project.
+1.4 Check Your Understanding Given that 1 lb (pound) is 4.45 N, were the numbers being output by
+SM_FORCES too big or too small?
+1.4 | Dimensional Analysis
+Learning Objectives
+By the end of this section, you will be able to:
+• Find the dimensions of a mathematical expression involving physical quantities.
+• Determine whether an equation involving physical quantities is dimensionally consistent.
+Thedimensionofanyphysicalquantityexpressesitsdependenceonthebasequantitiesasaproductofsymbols(orpowers
+ofsymbols)representingthebasequantities.Table1.3liststhebasequantitiesandthesymbolsusedfortheirdimension.
+For example, a measurement of length is said to have dimension L or L1, a measurement of mass has dimension M or
+M1, and a measurement of time has dimension T or T1. Like units, dimensions obey the rules of algebra. Thus, area is
+the product of two lengths and so has dimension L2, or length squared. Similarly, volume is the product of three lengths
+andhasdimensionL3,orlengthcubed.Speedhasdimensionlengthovertime,L/TorLT–1.Volumetricmassdensityhas
+dimensionM/L3orML–3,ormassoverlengthcubed.Ingeneral,thedimensionofanyphysicalquantitycanbewrittenas
+La Mb Tc Id Θe Nf Jg forsomepowers a, b, c, d, e, f, andg.Wecanwritethedimensionsofalengthinthisformwith
+a=1 andtheremainingsixpowersallsetequaltozero: L1=L1M0 T0 I0 Θ0 N0 J0 . Anyquantitywithadimensionthat
+canbewrittensothatallsevenpowersarezero(thatis,itsdimensionis L0 M0 T0 I0 Θ0 N0 J0)iscalleddimensionless
+(or sometimes “of dimension 1,” because anything raised to the zero power is one). Physicists often call dimensionless
+quantitiespure numbers.
+Base Quantity Symbol for Dimension
+Length L
+Mass M
+Time T
+Current I
+Thermodynamic temperature Θ
+Amount of substance N
+Luminous intensity J
+Table 1.3Base Quantities and Their Dimensions
+Physicistsoftenusesquarebracketsaroundthesymbolforaphysicalquantitytorepresentthedimensionsofthatquantity.
+For example, if r is the radius of a cylinder and h is its height, then we write [r]=L and [h]=L to indicate the
+dimensionsoftheradiusandheightareboththoseoflength,orL.Similarly,ifweusethesymbol A forthesurfaceareaof
+acylinderand V foritsvolume,then[A]=L2and[V]=L3.Ifweusethesymbol m forthemassofthecylinderand ρ
+This OpenStax book is available for free at http://cnx.org/content/col12031/1.10Chapter 1 | Units and Measurement 23
+for the density of the material from which the cylinder is made, then [m]=M and [ρ]=ML−3 .
+Theimportanceoftheconceptofdimensionarisesfromthefactthatanymathematicalequationrelatingphysicalquantities
+must bedimensionally consistent, which means the equation must obey the following rules:
+• Everyterminanexpressionmusthavethesamedimensions;itdoesnotmakesensetoaddorsubtractquantitiesof
+differingdimension(thinkoftheoldsaying:“Youcan’taddapplesandoranges”).Inparticular,theexpressionson
+each side of the equality in an equation must have the same dimensions.
+• The arguments of any of the standard mathematical functions such as trigonometric functions (such as sine and
+cosine), logarithms, or exponential functions that appear in the equation must be dimensionless. These functions
+require pure numbers as inputs and give pure numbers as outputs.
+Ifeitheroftheserulesisviolated,anequationisnotdimensionally consistent andcannotpossiblybeacorrectstatement
+ofphysicallaw.Thissimplefactcanbeusedtocheckfortyposoralgebramistakes,tohelprememberthevariouslawsof
+physics,andeventosuggesttheformthatnewlawsofphysicsmighttake.Thislastuseofdimensionsisbeyondthescope
+of this text, but is something you will undoubtedly learn later in your academic career.
+Example 1.4
+Using Dimensions to Remember an Equation
+Suppose we need the formula for the area of a circle for some computation. Like many people who learned
+geometry too long ago to recall with any certainty, two expressions may pop into our mind when we think of
+circles: πr2 and 2πr. Oneexpressionisthecircumferenceofacircleofradiusrandtheotherisitsarea.But
+which is which?
+Strategy
+Onenaturalstrategyistolookitup,butthiscouldtaketimetofindinformationfromareputablesource.Besides,
+evenifwethinkthesourceisreputable,weshouldn’ttrusteverythingweread.Itisnicetohaveawaytodouble-
+checkjustbythinkingaboutit.Also,wemightbeinasituationinwhichwecannotlookthingsup(suchasduring
+atest).Thus,thestrategyistofindthedimensionsofbothexpressionsbymakinguseofthefactthatdimensions
+followtherulesofalgebra.Ifeitherexpressiondoesnothavethesamedimensionsasarea,thenitcannotpossibly
+be the correct equation for the area of a circle.
+Solution
+We know the dimension of area is L2. Now, the dimension of the expression πr2 is
+[πr2]=[π]·[r]2=1·L2=L2,
+sincetheconstant π isapurenumberandtheradius r isalength.Therefore, πr2 hasthedimensionofarea.
+Similarly, the dimension of the expression 2πr is
+[2πr]=[2]·[π]·[r]=1·1·L=L,
+since the constants 2 and π are both dimensionless and the radius r is a length. We see that 2πr has the
+dimension of length, which means it cannot possibly be an area.
+Weruleout 2πr becauseitisnotdimensionallyconsistentwithbeinganarea.Weseethat πr2 isdimensionally
+consistent with being an area, so if we have to choose between these two expressions, πr2 is the one to choose.
+Significance
+Thismayseemlikekindofasillyexample,buttheideasareverygeneral.Aslongasweknowthedimensions
+of the individual physical quantities that appear in an equation, we can check to see whether the equation is
+dimensionally consistent. On the other hand, knowing that true equations are dimensionally consistent, we can
+matchexpressionsfromourimperfectmemoriestothequantitiesforwhichtheymightbeexpressions.Doingthis
+willnothelpusrememberdimensionlessfactorsthatappearintheequations(forexample,ifyouhadaccidentally
+conflated the two expressions from the example into 2πr2, then dimensional analysis is no help), but it does
+help us remember the correct basic form of equations.24 Chapter 1 | Units and Measurement
+1.5 Check Your Understanding Suppose we want the formula for the volume of a sphere. The two
+expressions commonly mentioned in elementary discussions of spheres are 4πr2 and 4πr3 /3. One is the
+volume of a sphere of radiusrand the other is its surface area. Which one is the volume?
+Example 1.5
+Checking Equations for Dimensional Consistency
+Consider the physical quantities s, v, a, and t with dimensions [s]=L, [v]=LT−1, [a]=LT−2,
+and [t]=T. Determine whether each of the following equations is dimensionally consistent: (a)
+s=vt+0.5at2; (b) s=vt2+0.5at; and (c) v=sin(at2/s).
+Strategy
+Bythedefinitionofdimensionalconsistency,weneedtocheckthateachterminagivenequationhasthesame
+dimensionsastheothertermsinthatequationandthattheargumentsofanystandardmathematicalfunctionsare
+dimensionless.
+Solution
+a. Therearenotrigonometric,logarithmic,orexponentialfunctionstoworryaboutinthisequation,sowe
+needonlylookatthedimensionsofeachtermappearingintheequation.Therearethreeterms,oneinthe
+left expression and two in the expression on the right, so we look at each in turn:
+[s]=L
+[vt]=[v]·[t]=LT−1·T=LT0
+=L
+[0.5at2]=[a]·[t]2=LT−2·T2=LT0
+=L.
+All three terms have the same dimension, so this equation is dimensionally consistent.
+b. Again,therearenotrigonometric,exponential,orlogarithmicfunctions,soweonlyneedtolookatthe
+dimensions of each of the three terms appearing in the equation:
+[s]=L
+[vt2]=[v]·[t]2=LT−1·T2=LT
+[at]=[a]·[t]=LT−2·T=LT−1.
+None of the three terms has the same dimension as any other, so this is about as far from being
+dimensionally consistent as you can get. The technical term for an equation like this isnonsense.
+c. This equation has a trigonometric function in it, so first we should check that the argument of the sine
+function is dimensionless:
+⎡at2⎤ [a]·[t]2 LT−2·T2 L
+⎣ s ⎦= [s] = L = L =1.
+Theargumentisdimensionless.Sofar,sogood.Nowweneedtocheckthedimensionsofeachofthetwo
+terms (that is, the left expression and the right expression) in the equation:
+[v]=LT−1
+⎡ ⎛at2⎞⎤
+⎣sin ⎝ s ⎠⎦=1.
+Thetwotermshavedifferentdimensions—meaning,theequationisnotdimensionallyconsistent.Thisequation
+is another example of “nonsense.”
+Significance
+If we are trusting people, these types of dimensional checks might seem unnecessary. But, rest assured, any
+This OpenStax book is available for free at http://cnx.org/content/col12031/1.10Chapter 1 | Units and Measurement 25
+textbookonaquantitativesubjectsuchasphysics(includingthisone)almostcertainlycontainssomeequations
+withtypos.Checkingequationsroutinelybydimensionalanalysissaveustheembarrassmentofusinganincorrect
+equation.Also,checkingthedimensionsofanequationweobtainthroughalgebraicmanipulationisagreatway
+to make sure we did not make a mistake (or to spot a mistake, if we made one).
+1.6 Check Your UnderstandingIs the equationv=atdimensionally consistent?
+Onefurtherpointthatneedstobementionedistheeffectoftheoperationsofcalculusondimensions.Wehaveseenthat
+dimensionsobeytherulesofalgebra,justlikeunits,butwhathappenswhenwetakethederivativeofonephysicalquantity
+withrespecttoanotherorintegrateaphysicalquantityoveranother?Thederivativeofafunctionisjusttheslopeoftheline
+tangenttoitsgraphandslopesareratios,soforphysicalquantitiesvandt,wehavethatthedimensionofthederivativeof
+vwith respect totis just the ratio of the dimension ofvover that oft:
+⎡dv⎤ [v]
+= .
+⎣dt⎦ [t]
+Similarly, since integrals are just sums of products, the dimension of the integral of v with respect to t is simply the
+dimension ofvtimes the dimension oft:
+⎡ ⎤
+∫vdt =[v]·[t].
+⎣ ⎦
+Bythesamereasoning,analogousrulesholdfortheunitsofphysicalquantitiesderivedfromotherquantitiesbyintegration
+or differentiation.
+1.5 | Estimates and Fermi Calculations
+Learning Objectives
+By the end of this section, you will be able to:
+• Estimate the values of physical quantities.
+On many occasions, physicists, other scientists, and engineers need to make estimates for a particular quantity. Other
+terms sometimes used are guesstimates, order-of-magnitude approximations, back-of-the-envelope calculations, or Fermi
+calculations.(ThephysicistEnricoFermimentionedearlierwasfamousforhisabilitytoestimatevariouskindsofdatawith
+surprisingprecision.)Willthatpieceofequipmentfitinthebackofthecarordoweneedtorentatruck?Howlongwill
+thisdownloadtake?Abouthowlargeacurrentwilltherebeinthiscircuitwhenitisturnedon?Howmanyhousescould
+aproposedpowerplantactually powerifitisbuilt?Notethatestimating doesnotmeanguessinganumberoraformula
+at random. Rather, estimation means using prior experience and sound physical reasoning to arrive at a rough idea of a
+quantity’svalue.Becausetheprocessofdeterminingareliableapproximationusuallyinvolvestheidentificationofcorrect
+physicalprinciplesandagoodguessabouttherelevantvariables,estimatingisveryusefulindevelopingphysicalintuition.
+Estimatesalsoallowusperform“sanitychecks”oncalculationsorpolicyproposalsbyhelpingusruleoutcertainscenarios
+orunrealisticnumbers.Theyallowustochallengeothers(aswellasourselves)inoureffortstolearntruthsabouttheworld.
+Manyestimatesarebasedonformulasinwhichtheinputquantitiesareknownonlytoalimitedprecision.Asyoudevelop
+physicsproblem-solvingskills(whichareapplicabletoawidevarietyoffields),youalsowilldevelopskillsatestimating.
+Youdeveloptheseskillsbythinkingmorequantitativelyandbybeingwillingtotakerisks.Aswithanyskill,experience
+helps. Familiarity with dimensions (see Table 1.3) and units (see Table 1.1 and Table 1.2), and the scales of base
+quantities (seeFigure 1.4) also helps.
+To make some progress in estimating, you need to have some definite ideas about how variables may be related. The
+following strategies may help you in practicing the art of estimation:
+• Get big lengths from smaller lengths. When estimating lengths, remember that anything can be a ruler. Thus,
+imaginebreakingabigthingintosmallerthings,estimatethelengthofoneofthesmallerthings,andmultiplyto
+get the length of the big thing. For example, to estimate the height of a building, first count how many floors it
+has.Then,estimatehowbigasinglefloorisbyimagininghowmanypeoplewouldhavetostandoneachother’s26 Chapter 1 | Units and Measurement
+shoulders to reach the ceiling. Last, estimate the height of a person. The product of these three estimates is your
+estimate of the height of the building. It helps to have memorized a few length scales relevant to the sorts of
+problems you find yourself solving. For example, knowing some of the length scales in Figure 1.4 might come
+inhandy.Sometimesitalsohelpstodothisinreverse—thatis,toestimatethelengthofasmallthing,imaginea
+bunchofthem making upabigger thing. Forexample, toestimate the thickness ofasheet ofpaper,estimate the
+thicknessofastackofpaperandthendividebythenumberofpagesinthestack.Thesesamestrategiesofbreaking
+bigthingsintosmallerthingsoraggregatingsmallerthingsintoabiggerthingcansometimesbeusedtoestimate
+other physical quantities, such as masses and times.
+• Getareasandvolumesfromlengths.Whendealingwithanareaoravolumeofacomplexobject,introduceasimple
+modeloftheobjectsuchasasphereorabox.Then,estimatethelineardimensions(suchastheradiusofthesphere
+orthelength,width,andheightofthebox)first,anduseyourestimatestoobtainthevolumeorareafromstandard
+geometricformulas.Ifyouhappentohaveanestimateofanobject’sareaorvolume,youcanalsodothereverse;
+that is, use standard geometric formulas to get an estimate of its linear dimensions.
+• Getmassesfromvolumesanddensities.Whenestimatingmassesofobjects,itcanhelpfirsttoestimateitsvolume
+andthentoestimateitsmassfromaroughestimateofitsaveragedensity(recall,densityhasdimensionmassover
+lengthcubed,somassisdensitytimesvolume).Forthis,ithelpstorememberthatthedensityofairisaround1kg/
+m3,thedensityofwateris103kg/m3,andthedensesteverydaysolidsmaxoutataround104kg/m3.Askingyourself
+whetheranobjectfloatsorsinksineitherairorwatergetsyouaballparkestimateofitsdensity.Youcanalsodo
+thistheotherwayaround;ifyouhaveanestimateofanobject’smassanditsdensity,youcanusethemtogetan
+estimate of its volume.
+• If all else fails, bound it. For physical quantities for which you do not have a lot of intuition, sometimes the best
+youcandoisthinksomethinglike:Well,itmustbebiggerthanthisandsmallerthanthat.Forexample,suppose
+youneedtoestimatethemassofamoose.Maybeyouhavealotofexperiencewithmooseandknowtheiraverage
+massoffhand.Ifso,great.Butformostpeople,thebesttheycandoistothinksomethinglike:Itmustbebigger
+thanaperson(oforder102kg)andlessthanacar(oforder103kg).Ifyouneedasinglenumberforasubsequent
+calculation, you can take the geometric mean of the upper and lower bound—that is, you multiply them together
+and then take the square root. For the moose mass example, this would be
+0.5
+⎛ 102 ×103⎞ =102.5 =100.5 ×102≈3×102kg.
+⎝ ⎠
+Thetighterthebounds,thebetter.Also,norulesareunbreakablewhenitcomestoestimation.Ifyouthinkthevalue
+ofthequantityislikelytobeclosertotheupperboundthanthelowerbound,thenyoumaywanttobumpupyour
+estimate from the geometric mean by an order or two of magnitude.
+• One“sig.fig.”isfine.Thereisnoneedtogobeyondonesignificantfigurewhendoingcalculationstoobtainan
+estimate.Inmostcases,theorderofmagnitudeisgoodenough.Thegoalisjusttogetintheballparkfigure,sokeep
+the arithmetic as simple as possible.
+• Askyourself:Doesthismakeanysense?Last,checktoseewhetheryouranswerisreasonable.Howdoesitcompare
+withthevaluesofotherquantitieswiththesamedimensionsthatyoualreadyknoworcanlookupeasily?Ifyou
+getsomewackyanswer(forexample,ifyouestimatethemassoftheAtlanticOceantobebiggerthanthemassof
+Earth,orsometimespantobelongerthantheageoftheuniverse),firstchecktoseewhetheryourunitsarecorrect.
+Then,checkforarithmetic errors.Then,rethinkthelogicyouusedtoarriveatyouranswer.Ifeverythingchecks
+out, you may have just proved that some slick new idea is actually bogus.
+Example 1.6
+Mass of Earth’s Oceans
+Estimate the total mass of the oceans on Earth.
+Strategy
+We know the density of water is about 103 kg/m3, so we start with the advice to “get masses from densities
+andvolumes.”Thus,weneedtoestimatethevolumeoftheplanet’soceans.Usingtheadviceto“getareasand
+volumesfromlengths,”wecanestimatethevolumeoftheoceansassurfaceareatimesaveragedepth,orV=AD.
+WeknowthediameterofEarthfromFigure 1.4andweknowthatmostofEarth’ssurfaceiscoveredinwater,
+so we can estimate the surface area of the oceans as being roughly equal to the surface area of the planet. By
+This OpenStax book is available for free at http://cnx.org/content/col12031/1.10Chapter 1 | Units and Measurement 27
+followingtheadviceto“getareasandvolumesfromlengths”again,wecanapproximateEarthasasphereand
+usetheformulaforthesurfaceareaofasphereofdiameterd—thatis, A=πd2, toestimatethesurfaceareaof
+theoceans.Nowwejustneedtoestimatetheaveragedepthoftheoceans.Forthis,weusetheadvice:“Ifallelse
+fails,boundit.”Wehappentoknowthedeepestpointsintheoceanarearound10kmandthatitisnotuncommon
+fortheoceantobedeeperthan1km,sowetaketheaveragedepthtobearound (103 ×104)0.5 ≈3×103 m.
+Now we just need to put it all together, heeding the advice that “one ‘sig. fig.’ is fine.”
+Solution
+We estimate the surface area of Earth (and hence the surface area of Earth’s oceans) to be roughly
+A=πd2=π(107 m)2≈3×1014m2.
+Next, using our average depth estimate of D=3×103 m, which was obtained by bounding, we estimate the
+volume of Earth’s oceans to be
+V = AD=(3×1014m2)(3×103 m)=9×1017 m3 .
+Last, we estimate the mass of the world’s oceans to be
+M = ρV =(103 kg/m3 )(9×1017 m3 )=9×1020 kg.
+Thus, we estimate that the order of magnitude of the mass of the planet’s oceans is 1021kg.
+Significance
+Toverifyouranswertothebestofourability,wefirstneedtoanswerthequestion:Doesthismakeanysense?
+FromFigure1.4,weseethemassofEarth’satmosphereisontheorderof1019kgandthemassofEarthison
+theorderof1025kg.Itisreassuringthatourestimateof1021kgforthemassofEarth’soceansfallssomewhere
+betweenthesetwo.So,yes,itdoesseemtomakesense.ItjustsohappensthatwedidasearchontheWebfor
+“massofoceans”andthetopsearchresultsallsaid 1.4×1021kg, whichisthesameorderofmagnitudeasour
+estimate.Now,ratherthanhavingtotrustblindlywhoeverfirstputthatnumberuponawebsite(mostoftheother
+sites probably just copied it from them, after all), we can have a little more confidence in it.
+1.7 Check Your Understanding Figure 1.4 says the mass of the atmosphere is 1019 kg. Assuming the
+densityoftheatmosphereis1kg/m3,estimatetheheightofEarth’satmosphere.Doyouthinkyouranswerisan
+underestimate or an overestimate? Explain why.
+HowmanypianotunersarethereinNewYorkCity?Howmanyleavesareonthattree?Ifyouarestudyingphotosynthesis
+orthinkingofwritingasmartphoneappforpianotuners,thentheanswerstothesequestionsmightbeofgreatinterestto
+you.Otherwise, youprobablycouldn’tcarelesswhattheanswersare.However,theseareexactly thesortsofestimation
+problemsthatpeopleinvarioustechindustrieshavebeenaskingpotentialemployeestoevaluatetheirquantitativereasoning
+skills.Ifbuildingphysicalintuitionandevaluatingquantitativeclaimsdonotseemlikesufficientreasonsforyoutopractice
+estimation problems, how about the fact that being good at them just might land you a high-paying job?
+For practice estimating relative lengths, areas, and volumes, check out this PhET
+(https://openstaxcollege.org/l/21lengthgame)simulation, titled “Estimation.”28 Chapter 1 | Units and Measurement
+1.6 | Significant Figures
+Learning Objectives
+By the end of this section, you will be able to:
+• Determine the correct number of significant figures for the result of a computation.
+• Describe the relationship between the concepts of accuracy, precision, uncertainty, and
+discrepancy.
+• Calculate the percent uncertainty of a measurement, given its value and its uncertainty.
+• Determine the uncertainty of the result of a computation involving quantities with given
+uncertainties.
+Figure 1.11 shows two instruments used to measure the mass of an object. The digital scale has mostly replaced the
+double-pan balance in physics labs because it gives more accurate and precise measurements. But what exactly do we
+meanbyaccurateandprecise?Aren’ttheythesamething?Inthissectionweexamineindetailtheprocessofmakingand
+reporting a measurement.
+Figure 1.11 (a) A double-pan mechanical balance is used to compare different masses. Usually an object with unknown mass
+is placed in one pan and objects of known mass are placed in the other pan. When the bar that connects the two pans is
+horizontal, then the masses in both pans are equal. The “known masses” are typically metal cylinders of standard mass such as 1
+g, 10 g, and 100 g. (b) Many mechanical balances, such as double-pan balances, have been replaced by digital scales, which can
+typically measure the mass of an object more precisely. A mechanical balance may read only the mass of an object to the nearest
+tenth of a gram, but many digital scales can measure the mass of an object up to the nearest thousandth of a gram. (credit a:
+modification of work by Serge Melki; credit b: modification of work by Karel Jakubec)
+Accuracy and Precision of a Measurement
+Scienceisbasedonobservationandexperiment—thatis,onmeasurements.Accuracyishowcloseameasurementistothe
+accepted reference value for that measurement. For example, let’s say we want to measure the length of standard printer
+paper.Thepackaginginwhichwepurchasedthepaperstatesthatitis11.0in.long.Wethenmeasurethelengthofthepaper
+threetimesandobtainthefollowingmeasurements:11.1in.,11.2in.,and10.9in.Thesemeasurementsarequiteaccurate
+becausetheyareveryclosetothereferencevalueof11.0in.Incontrast,ifwehadobtainedameasurementof12in.,our
+measurementwouldnotbeveryaccurate.Noticethattheconceptofaccuracyrequiresthatanacceptedreferencevaluebe
+given.
+Theprecisionofmeasurementsreferstohowclosetheagreementisbetweenrepeatedindependentmeasurements(which
+are repeated under the same conditions). Consider the example of the paper measurements. The precision of the
+measurements refers to the spread of the measured values. One way to analyze the precision of the measurements is to
+determinetherange,ordifference,betweenthelowestandthehighestmeasuredvalues.Inthiscase,thelowestvaluewas
+10.9in.andthehighestvaluewas11.2in.Thus,themeasuredvaluesdeviatedfromeachotherby,atmost,0.3in.These
+measurementswererelativelyprecisebecausetheydidnotvarytoomuchinvalue.However,ifthemeasuredvalueshad
+been10.9in.,11.1in.,and11.9in.,thenthemeasurementswouldnotbeveryprecisebecausetherewouldbesignificant
+This OpenStax book is available for free at http://cnx.org/content/col12031/1.10Chapter 1 | Units and Measurement 29
+variationfromonemeasurementtoanother.Noticethattheconceptofprecisiondependsonlyontheactualmeasurements
+acquired and does not depend on an accepted reference value.
+Themeasurementsinthepaperexamplearebothaccurateandprecise,butinsomecases,measurementsareaccuratebut
+not precise, or they are precise but not accurate. Let’s consider an example of a GPS attempting to locate the position
+of a restaurant in a city. Think of the restaurant location as existing at the center of a bull’s-eye target and think of each
+GPSattempttolocatetherestaurantasablackdot.InFigure 1.12(a),weseetheGPSmeasurementsarespreadoutfar
+apart from each other, but they are all relatively close to the actual location of the restaurant at the center of the target.
+Thisindicatesalow-precision,high-accuracymeasuringsystem.However,inFigure1.12(b),theGPSmeasurementsare
+concentrated quite closely to one another, but they are far away from the target location. This indicates a high-precision,
+low-accuracy measuring system.
+Figure 1.12 A GPS attempts to locate a restaurant at the center of the bull’s-eye. The
+black dots represent each attempt to pinpoint the location of the restaurant. (a) The dots
+are spread out quite far apart from one another, indicating low precision, but they are each
+rather close to the actual location of the restaurant, indicating high accuracy. (b) The dots
+are concentrated rather closely to one another, indicating high precision, but they are
+rather far away from the actual location of the restaurant, indicating low accuracy. (credit
+a and credit b: modification of works by "DarkEvil"/Wikimedia Commons)
+Accuracy, Precision, Uncertainty, and Discrepancy
+The precision of a measuring system is related to the uncertainty in the measurements whereas the accuracy is related
+tothediscrepancyfromtheacceptedreferencevalue.Uncertaintyisaquantitativemeasureofhowmuchyourmeasured
+valuesdeviatefromoneanother.Therearemanydifferentmethodsofcalculatinguncertainty,eachofwhichisappropriate
+todifferentsituations.Someexamplesincludetakingtherange(thatis,thebiggestlessthesmallest)orfindingthestandard
+deviationofthemeasurements.Discrepancy(or“measurementerror”)isthedifferencebetweenthemeasuredvalueanda
+givenstandardorexpectedvalue.Ifthemeasurementsarenotveryprecise,thentheuncertaintyofthevaluesishigh.Ifthe
+measurements are not very accurate, then the discrepancy of the values is high.
+Recallourexampleofmeasuringpaperlength;weobtainedmeasurementsof11.1in.,11.2in.,and10.9in.,andtheaccepted
+valuewas11.0in.Wemightaveragethethreemeasurementstosayourbestguessis11.1in.;inthiscase,ourdiscrepancy
+is11.1–11.0=0.1in.,whichprovidesaquantitativemeasureofaccuracy.Wemightcalculatetheuncertaintyinourbest
+guessbyusingtherangeofourmeasuredvalues:0.3in.Thenwewouldsaythelengthofthepaperis11.1in.plusorminus
+0.3in.Theuncertaintyinameasurement,A,isoftendenotedasδA(read“deltaA”),sothemeasurementresultwouldbe
+recorded as A ± δA. Returning to our paper example, the measured length of the paper could be expressed as 11.1 ± 0.3
+in.Sincethediscrepancyof0.1in.islessthantheuncertaintyof0.3in.,wemightsaythemeasuredvalueagreeswiththe
+accepted reference value to within experimental uncertainty.
+Some factors that contribute to uncertainty in a measurement include the following:
+• Limitations of the measuring device
+• The skill of the person taking the measurement
+• Irregularities in the object being measured
+• Any other factors that affect the outcome (highly dependent on the situation)
+Inourexample,suchfactorscontributingtotheuncertaintycouldbethesmallestdivisionontheruleris1/16in.,theperson
+usingtherulerhasbadeyesight,therulerisworndownononeend,oronesideofthepaperisslightlylongerthantheother.30 Chapter 1 | Units and Measurement
+Atanyrate,theuncertaintyinameasurementmustbecalculatedtoquantifyitsprecision.Ifareferencevalueisknown,it
+makes sense to calculate the discrepancy as well to quantify its accuracy.
+Percent uncertainty
+Another method of expressing uncertainty is as a percent of the measured value. If a measurement A is expressed with
+uncertaintyδA, thepercent uncertaintyis defined as
+δA
+Percent uncertainty= ×100%.
+A
+Example 1.7
+Calculating Percent Uncertainty: A Bag of Apples
+Agrocerystoresells5-lbbagsofapples.Let’ssaywepurchasefourbagsduringthecourseofamonthandweigh
+the bags each time. We obtain the following measurements:
+• Week 1 weight: 4.8 lb
+• Week 2 weight: 5.3 lb
+• Week 3 weight: 4.9 lb
+• Week 4 weight: 5.4 lb
+Wethendeterminetheaverageweightofthe5-lbbagofapplesis5.1±0.2lb.Whatisthepercentuncertaintyof
+the bag’s weight?
+Strategy
+First,observethattheaveragevalueofthebag’sweight,A,is5.1lb.Theuncertaintyinthisvalue, δA, is0.2lb.
+We can use the following equation to determine the percent uncertainty of the weight:
+δA (1.1)
+Percent uncertainty= ×100%.
+A
+Solution
+Substitute the values into the equation:
+Percent uncertainty= δA ×100%= 0.2lb ×100%=3.9%≈4%.
+A 5.1lb
+Significance
+We can conclude the average weight of a bag of apples from this store is 5.1 lb ± 4%. Notice the percent
+uncertaintyisdimensionlessbecausetheunitsofweightin δA=0.2 lbcanceledthoseinA=5.1lbwhenwe
+took the ratio.
+1.8 Check Your Understanding A high school track coach has just purchased a new stopwatch. The
+stopwatch manual states the stopwatch has an uncertainty of ±0.05 s. Runners on the track coach’s team
+regularlyclock100-msprintsof11.49sto15.01s.Attheschool’slasttrackmeet,thefirst-placesprintercame
+in at 12.04 s and the second-place sprinter came in at 12.07 s. Will the coach’s new stopwatch be helpful in
+timing the sprint team? Why or why not?
+Uncertainties in calculations
+Uncertainty exists in anything calculated from measured quantities. For example, the area of a floor calculated from
+measurementsofitslengthandwidthhasanuncertaintybecausethelengthandwidthhaveuncertainties.Howbigisthe
+uncertaintyinsomethingyoucalculatebymultiplicationordivision?Ifthemeasurementsgoingintothecalculationhave
+smalluncertainties(afewpercentorless),thenthemethodofaddingpercentscanbeusedformultiplicationordivision.
+Thismethodstatesthepercentuncertaintyinaquantitycalculatedbymultiplicationordivisionisthesumofthepercent
+This OpenStax book is available for free at http://cnx.org/content/col12031/1.10Chapter 1 | Units and Measurement 31
+uncertaintiesintheitemsusedtomakethecalculation.Forexample,ifafloorhasalengthof4.00mandawidthof3.00m,
+withuncertaintiesof2%and1%,respectively,thentheareaoftheflooris12.0m2andhasanuncertaintyof3%.(Expressed
+asanarea,thisis0.36m2[12.0m2 ×0.03],whichweroundto0.4m2sincetheareaofthefloorisgiventoatenthofa
+square meter.)
+Precision of Measuring Tools and Significant Figures
+An important factor in the precision of measurements involves the precision of the measuring tool. In general, a precise
+measuringtoolisonethatcanmeasurevaluesinverysmallincrements.Forexample,astandardrulercanmeasurelengthto
+thenearestmillimeterwhereasacalipercanmeasurelengthtothenearest0.01mm.Thecaliperisamoreprecisemeasuring
+toolbecauseitcanmeasureextremelysmalldifferencesinlength.Themoreprecisethemeasuringtool,themoreprecise
+the measurements.
+Whenweexpressmeasuredvalues,wecanonlylistasmanydigitsaswemeasuredinitiallywithourmeasuringtool.For
+example,ifweuseastandardrulertomeasurethelengthofastick,wemaymeasureittobe36.7cm.Wecan’texpressthis
+valueas36.71cmbecauseourmeasuringtoolisnotpreciseenoughtomeasureahundredthofacentimeter.Itshouldbe
+notedthatthelastdigitinameasuredvaluehasbeenestimatedinsomewaybythepersonperformingthemeasurement.For
+example,thepersonmeasuringthelengthofastickwitharulernoticesthesticklengthseemstobesomewhereinbetween
+36.6cmand36.7cm,andheorshemustestimatethevalueofthelastdigit.Usingthemethodofsignificantfigures,the
+ruleisthatthelastdigitwrittendowninameasurementisthefirstdigitwithsomeuncertainty.Todeterminethenumber
+ofsignificantdigitsinavalue,startwiththefirstmeasuredvalueattheleftandcountthenumberofdigitsthroughthelast
+digitwrittenontheright.Forexample,themeasuredvalue36.7cmhasthreedigits,orthreesignificantfigures.Significant
+figures indicate the precision of the measuring tool used to measure a value.
+Zeros
+Special consideration is given to zeros when counting significant figures. The zeros in 0.053 are not significant because
+they are placeholders that locate the decimal point. There are two significant figures in 0.053. The zeros in 10.053 are
+not placeholders; they are significant. This number has five significant figures. The zeros in 1300 may or may not be
+significant, depending on the style of writing numbers. They could mean the number is known to the last digit or they
+couldbeplaceholders.So1300couldhavetwo,three,orfoursignificantfigures.Toavoidthisambiguity,weshouldwrite
+1300inscientificnotationas 1.3×103 , 1.30×103 , or 1.300×103 , dependingonwhetherithastwo,three,orfour
+significant figures.Zeros are significant except when they serve only as placeholders.
+Significant figures in calculations
+Whencombiningmeasurementswithdifferentdegreesofprecision,thenumberofsignificantdigitsinthefinalanswercan
+benogreaterthanthenumberofsignificantdigitsintheleast-precisemeasuredvalue.Therearetwodifferentrules,one
+for multiplication and division and the other for addition and subtraction.
+1. For multiplication and division, the result should have the same number of significant figures as the quantity
+withtheleastnumberofsignificantfiguresenteringintothecalculation.Forexample,theareaofacirclecanbe
+calculatedfromitsradiususingA=πr2.Let’sseehowmanysignificantfigurestheareahasiftheradiushasonly
+two—say,r= 1.2 m. Using a calculator with an eight-digit output, we would calculate
+A=πr2=(3.1415927…)×(1.2m)2=4.5238934m2.
+Butbecausetheradiushasonlytwosignificantfigures,itlimitsthecalculatedquantitytotwosignificantfigures,or
+A=4.5m2,
+althoughπis good to at least eight digits.
+2. Foradditionandsubtraction,theanswercancontainnomoredecimalplacesthantheleast-precisemeasurement.
+Supposewebuy7.56kgofpotatoesinagrocerystoreasmeasuredwithascalewithprecision0.01kg,thenwedrop
+off6.052kgofpotatoesatyourlaboratoryasmeasuredbyascalewithprecision0.001kg.Then,wegohomeand
+add13.7kgofpotatoesasmeasuredbyabathroomscalewithprecision0.1kg.Howmanykilogramsofpotatoesdo
+wenowhaveandhowmanysignificantfiguresareappropriateintheanswer?Themassisfoundbysimpleaddition
+and subtraction:32 Chapter 1 | Units and Measurement
+7.56kg
+−6.052kg
++13.7kg
+=15.2kg.
+15.208kg
+Next,weidentifytheleast-precisemeasurement:13.7kg.Thismeasurementisexpressedtothe0.1decimalplace,
+soourfinalanswermustalsobeexpressedtothe0.1decimalplace.Thus,theanswerisroundedtothetenthsplace,
+giving us 15.2 kg.
+Significant figures in this text
+In this text, most numbers are assumed to have three significant figures. Furthermore, consistent numbers of significant
+figures are used in all worked examples. An answer given to three digits is based on input good to at least three digits,
+for example. If the input has fewer significant figures, the answer will also have fewer significant figures. Care is also
+takenthatthenumberofsignificantfiguresisreasonableforthesituationposed.Insometopics,particularlyinoptics,more
+accuratenumbersareneededandweusemorethanthreesignificantfigures.Finally,ifanumberisexact,suchasthetwo
+intheformulaforthecircumferenceofacircle,C=2πr,itdoesnotaffectthenumberofsignificantfiguresinacalculation.
+Likewise,conversionfactorssuchas100cm/1mareconsideredexactanddonotaffectthenumberofsignificantfiguresin
+a calculation.
+1.7 | Solving Problems in Physics
+Learning Objectives
+By the end of this section, you will be able to:
+• Describe the process for developing a problem-solving strategy.
+• Explain how to find the numerical solution to a problem.
+• Summarize the process for assessing the significance of the numerical solution to a problem.
+Figure 1.13 Problem-solving skills are essential to your success in physics. (credit:
+“scui3asteveo”/Flickr)
+Problem-solving skills are clearly essential to success in a quantitative course in physics. More important, the ability
+This OpenStax book is available for free at http://cnx.org/content/col12031/1.10Chapter 1 | Units and Measurement 33
+to apply broad physical principles—usually represented by equations—to specific situations is a very powerful form of
+knowledge.Itismuchmorepowerfulthanmemorizingalistoffacts.Analyticalskillsandproblem-solvingabilitiescanbe
+appliedtonewsituationswhereasalistoffactscannotbemadelongenoughtocontaineverypossiblecircumstance.Such
+analytical skills are useful both for solving problems in this text and for applying physics in everyday life.
+Asyouareprobablywellaware,acertainamountofcreativityandinsightisrequiredtosolveproblems.Norigidprocedure
+workseverytime.Creativityandinsightgrowwithexperience.Withpractice,thebasicsofproblemsolvingbecomealmost
+automatic. One way to get practice is to work out the text’s examples for yourself as you read. Another is to work as
+many end-of-section problems as possible, starting with the easiest to build confidence and then progressing to the more
+difficult.Afteryoubecomeinvolvedinphysics,youwillseeitallaroundyou,andyoucanbegintoapplyittosituations
+you encounter outside the classroom, just as is done in many of the applications in this text.
+Althoughthereisnosimplestep-by-stepmethodthatworksforeveryproblem,thefollowingthree-stageprocessfacilitates
+problem solving and makes it more meaningful. The three stages are strategy, solution, and significance. This process is
+used in examples throughout the book. Here, we look at each stage of the process in turn.
+Strategy
+Strategyisthebeginningstageofsolvingaproblem.Theideaistofigureoutexactlywhattheproblemisandthendevelop
+a strategy for solving it. Some general advice for this stage is as follows:
+• Examinethesituationtodeterminewhichphysicalprinciplesareinvolved.Itoftenhelpstodrawasimplesketch
+at the outset. You often need to decide which direction is positive and note that on your sketch. When you have
+identified the physical principles, it is much easier to find and apply the equations representing those principles.
+Althoughfindingthecorrectequationisessential,keepinmindthatequationsrepresentphysicalprinciples,lawsof
+nature,andrelationshipsamongphysicalquantities.Withoutaconceptualunderstandingofaproblem,anumerical
+solution is meaningless.
+• Makealistofwhatisgivenorcanbeinferredfromtheproblemasstated(identifythe“knowns”).Manyproblems
+arestatedverysuccinctlyandrequiresomeinspectiontodeterminewhatisknown.Drawingasketchcanbevery
+usefulatthispointaswell.Formallyidentifyingtheknownsisofparticularimportanceinapplyingphysicstoreal-
+worldsituations.Forexample,thewordstoppedmeansthevelocityiszeroatthatinstant.Also,wecanoftentake
+initial time and position as zero by the appropriate choice of coordinate system.
+• Identify exactly what needs to be determined in the problem (identify the unknowns). In complex problems,
+especially,itisnotalwaysobviouswhatneedstobefoundorinwhatsequence.Makingalistcanhelpidentifythe
+unknowns.
+• Determinewhichphysicalprinciplescanhelpyousolvetheproblem.Sincephysicalprinciplestendtobeexpressed
+intheformofmathematical equations, alistofknownsandunknownscanhelphere.Itiseasiest ifyoucanfind
+equations that contain only one unknown—that is, all the other variables are known—so you can solve for the
+unknowneasily.Iftheequationcontainsmorethanoneunknown,thenadditionalequationsareneededtosolvethe
+problem.Insomeproblems,severalunknownsmustbedeterminedtogetattheoneneededmost.Insuchproblems
+itisespeciallyimportanttokeepphysicalprinciplesinmindtoavoidgoingastrayinaseaofequations.Youmay
+have to use two (or more) different equations to get the final answer.
+Solution
+Thesolutionstageiswhenyoudothemath.Substitute theknowns(alongwiththeirunits)intotheappropriateequation
+andobtainnumericalsolutionscompletewithunits.Thatis,dothealgebra,calculus,geometry,orarithmeticnecessaryto
+find the unknown from the knowns, being sure to carry the units through the calculations. This step is clearly important
+because it produces the numerical answer, along with its units. Notice, however, that this stage is only one-third of the
+overall problem-solving process.
+Significance
+After having done the math in the solution stage of problem solving, it is tempting to think you are done. But, always
+rememberthatphysicsisnotmath.Rather,indoingphysics,weusemathematicsasatooltohelpusunderstandnature.So,
+after you obtain a numerical answer, you should always assess its significance:
+• Checkyourunits.Iftheunitsoftheanswerareincorrect,thenanerrorhasbeenmadeandyoushouldgobackover
+yourpreviousstepstofindit.Onewaytofindthemistakeistocheckalltheequationsyouderivedfordimensional
+consistency.However,bewarnedthatcorrectunitsdonotguaranteethenumericalpartoftheanswerisalsocorrect.34 Chapter 1 | Units and Measurement
+• Checktheanswertoseewhetheritisreasonable.Doesitmakesense?Thisstepisextremelyimportant:–thegoal
+ofphysicsistodescribenatureaccurately.Todeterminewhethertheanswerisreasonable,checkbothitsmagnitude
+and its sign, in addition to its units. The magnitude should be consistent with a rough estimate of what it should
+be.Itshouldalsocomparereasonablywithmagnitudesofotherquantitiesofthesametype.Thesignusuallytells
+youaboutdirectionandshouldbeconsistentwithyourpriorexpectations.Yourjudgmentwillimproveasyousolve
+morephysicsproblems,anditwillbecomepossibleforyoutomakefinerjudgmentsregardingwhethernatureis
+describedadequatelybytheanswertoaproblem.Thisstepbringstheproblembacktoitsconceptualmeaning.If
+youcanjudgewhethertheanswerisreasonable,youhaveadeeperunderstandingofphysicsthanjustbeingableto
+solve a problem mechanically.
+• Check to see whether the answer tells you something interesting. What does it mean? This is the flip side of the
+question:Doesitmakesense?Ultimately,physicsisaboutunderstandingnature,andwesolvephysicsproblemsto
+learn alittle something about hownature operates. Therefore, assuming the answer doesmake sense, youshould
+alwaystakeamomenttoseeifittellsyousomethingabouttheworldthatyoufindinteresting.Eveniftheanswerto
+thisparticularproblemisnotveryinterestingtoyou,whataboutthemethodyouusedtosolveit?Couldthemethod
+be adapted to answer a question that you do find interesting? In many ways, it is in answering questions such as
+these that science progresses.
+This OpenStax book is available for free at http://cnx.org/content/col12031/1.10Chapter 1 | Units and Measurement 35
+CHAPTER 1 REVIEW
+KEY TERMS
+accuracy the degree to which a measured value agrees with an accepted reference value for that measurement
+base quantity physicalquantitychosenbyconventionandpracticalconsiderationssuchthatallotherphysicalquantities
+can be expressed as algebraic combinations of them
+base unit standardforexpressingthemeasurementofabasequantitywithinaparticularsystemofunits;definedbya
+particular procedure used to measure the corresponding base quantity
+conversion factor a ratio that expresses how many of one unit are equal to another unit
+derived quantity physical quantity defined using algebraic combinations of base quantities
+derived units units that can be calculated using algebraic combinations of the fundamental units
+dimension expressionofthedependenceofaphysicalquantityonthebasequantitiesasaproductofpowersofsymbols
+representingthebasequantities;ingeneral,thedimensionofaquantityhastheform LaMbTcIdΘeNfJg forsome
+powers a, b, c, d, e, f, and g.
+dimensionally consistent equation in which every term has the same dimensions and the arguments of any
+mathematical functions appearing in the equation are dimensionless
+dimensionless quantitywithadimensionof L0 M0 T0 I0 Θ0 N0 J0 =1; alsocalledquantityofdimension1orapure
+number
+discrepancy the difference between the measured value and a given standard or expected value
+English units system of measurement used in the United States; includes units of measure such as feet, gallons, and
+pounds
+estimation usingpriorexperienceandsoundphysicalreasoningtoarriveataroughideaofaquantity’svalue;sometimes
+calledan“order-of-magnitudeapproximation,”a“guesstimate,”a“back-of-the-envelopecalculation”,ora“Fermi
+calculation”
+kilogram SI unit for mass, abbreviated kg
+law description, using concise language or a mathematical formula, of a generalized pattern in nature supported by
+scientific evidence and repeated experiments
+meter SI unit for length, abbreviated m
+method of adding percents thepercentuncertaintyinaquantitycalculatedbymultiplicationordivisionisthesumof
+the percent uncertainties in the items used to make the calculation.
+metric system system in which values can be calculated in factors of 10
+model representation of something often too difficult (or impossible) to display directly
+order of magnitude the size of a quantity as it relates to a power of 10
+percent uncertainty the ratio of the uncertainty of a measurement to the measured value, expressed as a percentage
+physical quantity characteristic or property of an object that can be measured or calculated from other measurements
+physics science concerned with describing the interactions of energy, matter, space, and time; especially interested in
+what fundamental mechanisms underlie every phenomenon
+precision the degree to which repeated measurements agree with each other
+second the SI unit for time, abbreviated s
+SI units the international system of units that scientists in most countries have agreed to use; includes units such as
+meters, liters, and grams
+significant figures used to express the precision of a measuring tool used to measure a value36 Chapter 1 | Units and Measurement
+theory
+testableexplanationforpatternsinnaturesupportedbyscientificevidenceandverifiedmultipletimesbyvarious
+groups of researchers
+uncertainty a quantitative measure of how much measured values deviate from one another
+units standards used for expressing and comparing measurements
+KEY EQUATIONS
+δA
+Percent uncertainty Percent uncertainty= ×100%
+A
+SUMMARY
+1.1The Scope and Scale of Physics
+• Physics is about trying to find the simple laws that describe all natural phenomena.
+• Physics operates on a vast range of scales of length, mass, and time. Scientists use the concept of the order of
+magnitude of a number to track which phenomena occur on which scales. They also use orders of magnitude to
+compare the various scales.
+• Scientists attempt to describe the world by formulating models, theories, and laws.
+1.2Units and Standards
+• Systems of units are built up from a small number of base units, which are defined by accurate and precise
+measurementsofconventionallychosenbasequantities.Otherunitsarethenderivedasalgebraiccombinationsof
+the base units.
+• TwocommonlyusedsystemsofunitsareEnglishunitsandSIunits.Allscientistsandmostoftheotherpeoplein
+the world use SI, whereas nonscientists in the United States still tend to use English units.
+• The SI base units of length, mass, and time are the meter (m), kilogram (kg), and second (s), respectively.
+• SI units are a metric system of units, meaning values can be calculated by factors of 10. Metric prefixes may be
+used with metric units to scale the base units to sizes appropriate for almost any application.
+1.3Unit Conversion
+• Toconvertaquantityfromoneunittoanother,multiplybyconversionsfactorsinsuchawaythatyoucancelthe
+units you want to get rid of and introduce the units you want to end up with.
+• Becarefulwithareasandvolumes.Unitsobeytherulesofalgebraso,forexample,ifaunitissquaredweneedtwo
+factors to cancel it.
+1.4Dimensional Analysis
+• The dimension of a physical quantity is just an expression of the base quantities from which it is derived.
+• Allequationsexpressingphysicallawsorprinciplesmustbedimensionallyconsistent.Thisfactcanbeusedasan
+aidinrememberingphysicallaws,asawaytocheckwhetherclaimedrelationshipsbetweenphysicalquantitiesare
+possible, and even to derive new physical laws.
+1.5Estimates and Fermi Calculations
+• An estimate is a rough educated guess at the value of a physical quantity based on prior experience and sound
+physical reasoning. Some strategies that may help when making an estimate are as follows:
+◦ Get big lengths from smaller lengths.
+◦ Get areas and volumes from lengths.
+◦ Get masses from volumes and densities.
+◦ If all else fails, bound it.
+This OpenStax book is available for free at http://cnx.org/content/col12031/1.10Chapter 1 | Units and Measurement 37
+◦ One “sig. fig.” is fine.
+◦ Ask yourself: Does this make any sense?
+1.6Significant Figures
+• Accuracyofameasuredvaluereferstohowcloseameasurementistoanacceptedreferencevalue.Thediscrepancy
+in a measurement is the amount by which the measurement result differs from this value.
+• Precisionofmeasuredvaluesreferstohowclosetheagreementisbetweenrepeatedmeasurements.Theuncertainty
+of a measurement is a quantification of this.
+• Theprecisionofameasuringtoolisrelatedtothesizeofitsmeasurementincrements.Thesmallerthemeasurement
+increment, the more precise the tool.
+• Significant figures express the precision of a measuring tool.
+• Whenmultiplyingordividingmeasuredvalues,thefinalanswercancontainonlyasmanysignificantfiguresasthe
+value with the least number of significant figures.
+• Whenaddingorsubtractingmeasuredvalues,thefinalanswercannotcontainmoredecimalplacesthantheleast-
+precise value.
+1.7Solving Problems in Physics
+The three stages of the process for solving physics problems used in this book are as follows:
+• Strategy: Determine which physical principles are involved and develop a strategy for using them to solve the
+problem.
+• Solution: Do the math necessary to obtain a numerical solution complete with units.
+• Significance: Check the solution to make sure it makes sense (correct units, reasonable magnitude and sign) and
+assess its significance.
+CONCEPTUAL QUESTIONS
+1.1The Scope and Scale of Physics 1.2Units and Standards
+1. What is physics? 7. Identify some advantages of metric units.
+2. Some have described physics as a “search for 8. What are the SI base units of length, mass, and time?
+simplicity.” Explain why this might be an appropriate
+description. 9. Whatisthedifferencebetweenabaseunitandaderived
+unit?(b)Whatisthedifferencebetweenabasequantityand
+3. If two different theories describe experimental a derived quantity? (c) What is the difference between a
+observationsequallywell,canonebesaidtobemorevalid base quantity and a base unit?
+than the other (assuming both use accepted rules of logic)?
+10. For each of the following scenarios, refer to Figure
+4. What determines the validity of a theory? 1.4 and Table 1.2 to determine which metric prefix on
+the meter is most appropriate for each of the following
+5. Certain criteria must be satisfied if a measurement or scenarios.(a)Youwanttotabulatethemeandistancefrom
+observation is to be believed. Will the criteria necessarily the Sun for each planet in the solar system. (b) You want
+be as strict for an expected result as for an unexpected to compare the sizes of some common viruses to design a
+result? mechanicalfiltercapableofblockingthepathogenicones.
+(c)Youwanttolistthediametersofalltheelementsonthe
+periodic table. (d) You want to list the distances to all the
+6. Can the validity of a model be limited or must it be
+starsthathavenowreceivedanyradiobroadcastssentfrom
+universallyvalid?Howdoesthiscomparewiththerequired
+Earth 10 years ago.
+validity of a theory or a law?38 Chapter 1 | Units and Measurement
+1.6Significant Figures 1.7Solving Problems in Physics
+11. (a) What is the relationship between the precision 12. What information do you need to choose which
+and the uncertainty of a measurement? (b) What is the equation or equations to use to solve a problem?
+relationshipbetweentheaccuracyandthediscrepancyofa
+measurement? 13. What should you do after obtaining a numerical
+answer when solving a problem?
+PROBLEMS
+19. Calculate the approximate number of atoms in a
+1.1The Scope and Scale of Physics bacterium. Assume the average mass of an atom in the
+bacterium is 10 times the mass of a proton.
+14. Findtheorderofmagnitudeofthefollowingphysical
+quantities. (a) The mass of Earth’s atmosphere:
+5.1×1018 kg; (b) The mass of the Moon’s atmosphere: 20. (a) Calculate the number of cells in a hummingbird
+assumingthemassofanaveragecellis10timesthemass
+25,000 kg; (c) The mass of Earth’s hydrosphere:
+of a bacterium. (b) Making the same assumption, how
+1.4×1021kg; (d) The mass of Earth: 5.97×1024kg; many cells are there in a human?
+(e) The mass of the Moon: 7.34×1022kg; (f) The
+21. Assumingonenerveimpulsemustendbeforeanother
+Earth–Moondistance(semimajoraxis): 3.84×108 m; (g) can begin, what is the maximum firing rate of a nerve in
+impulses per second?
+The mean Earth–Sun distance: 1.5×1011m; (h) The
+equatorialradiusofEarth: 6.38×106 m; (i)Themassof 22. About how many floating-point operations can a
+an electron: 9.11×10−31 kg; (j) The mass of a proton: supercomputer perform each year?
+1.67×10−27 kg; (k) The mass of the Sun:
+23. Roughly how many floating-point operations can a
+30 supercomputer perform in a human lifetime?
+1.99×10 kg.
+15. Usetheordersofmagnitudeyoufoundintheprevious
+1.2Units and Standards
+problem to answer the following questions to within an
+orderofmagnitude.(a)Howmanyelectronswouldittake 24. The following times are given using metric prefixes
+toequalthemassofaproton?(b)HowmanyEarthswould on the base SI unit of time: the second. Rewrite them in
+it take to equal the mass of the Sun? (c) How many scientific notation without the prefix. For example, 47 Ts
+Earth–Moon distances would it take to cover the distance wouldberewrittenas 4.7×1013 s. (a)980Ps;(b)980fs;
+from Earth to the Sun? (d) How many Moon atmospheres (c) 17 ns; (d) 577µs.
+wouldittaketoequalthemassofEarth’satmosphere?(e)
+HowmanymoonswouldittaketoequalthemassofEarth?
+(f) How many protons would it take to equal the mass of 25. Thefollowingtimesaregiveninseconds.Usemetric
+the Sun? prefixes to rewrite them so the numerical value is greater
+than one but less than 1000. For example, 7.9×10−2s
+For the remaining questions, you need to use Figure 1.4 couldbewrittenaseither7.9csor79ms.(a) 9.57×105 s;
+to obtain the necessary orders of magnitude of lengths,
+masses, and times. (b) 0.045 s; (c) 5.5×10−7 s; (d) 3.16×107 s.
+16. Roughly how many heartbeats are there in a lifetime?
+26. Thefollowinglengthsaregivenusingmetricprefixes
+on the base SI unit of length: the meter. Rewrite them in
+17. A generation is about one-third of a lifetime.
+scientificnotationwithouttheprefix.Forexample,4.2Pm
+Approximately how many generations have passed since
+the year 0 AD? wouldberewrittenas 4.2×1015 m. (a)89Tm;(b)89pm;
+(c) 711 mm; (d) 0.45µm.
+18. Roughlyhowmanytimeslongerthanthemeanlifeof
+an extremely unstable atomic nucleus is the lifetime of a
+27. Thefollowinglengthsaregiveninmeters.Usemetric
+human?
+prefixes to rewrite them so the numerical value is bigger
+This OpenStax book is available for free at http://cnx.org/content/col12031/1.10Chapter 1 | Units and Measurement 39
+than one but less than 1000. For example, 7.9×10−2m 37. MountEverest,at29,028ft,isthetallestmountainon
+Earth.Whatisitsheightinkilometers?(Assumethat1m=
+could be written either as 7.9 cm or 79 mm. (a)
+3.281 ft.)
+7.59×107 m; (b) 0.0074 m; (c) 8.8×10−11m; (d)
+1.63×1013 m. 38. The speed of sound is measured to be 342 m/s on
+a certain day. What is this measurement in kilometers per
+hour?
+28. The following masses are written using metric
+prefixes on the gram. Rewrite them in scientific notation
+in terms of the SI base unit of mass: the kilogram. For 39. TectonicplatesarelargesegmentsofEarth’scrustthat
+moveslowly.Supposeonesuchplatehasanaveragespeed
+example, 40 Mg would be written as 4×104kg. (a) 23
+of 4.0 cm/yr. (a) What distance does it move in 1.0 s at
+mg; (b) 320 Tg; (c) 42 ng; (d) 7 g; (e) 9 Pg.
+thisspeed? (b)What isitsspeedinkilometers permillion
+years?
+29. The following masses are given in kilograms. Use
+metric prefixes on the gram to rewrite them so the
+40. The average distance between Earth and the Sun is
+numerical value is bigger than one but less than 1000.
+1.5×1011m. (a)CalculatetheaveragespeedofEarthin
+For example, 7×10−4kg could be written as 70 cg or
+itsorbit(assumedtobecircular)inmeterspersecond.(b)
+700 mg. (a) 3.8×10−5 kg; (b) 2.3×1017 kg; (c) What is this speed in miles per hour?
+2.4×10−11kg; (d) 8×1015 kg; (e) 4.2×10−3 kg. 41. The density of nuclear matter is about 1018 kg/m3.
+Given that 1 mL is equal in volume to cm3, what is the
+densityofnuclearmatterinmegagramspermicroliter(that
+1.3Unit Conversion is, Mg/µL)?
+30. The volume of Earth is on the order of 1021 m3.
+(a) What is this in cubic kilometers (km3)? (b) What is it 42. The density of aluminum is 2.7 g/cm3. What is the
+in cubic miles (mi3)? (c) What is it in cubic centimeters density in kilograms per cubic meter?
+(cm3)?
+43. AcommonlyusedunitofmassintheEnglishsystem
+31. The speed limit on some interstate highways is is the pound-mass, abbreviated lbm, where 1 lbm = 0.454
+roughly 100 km/h. (a) What is this in meters per second? kg. What is the density of water in pound-mass per cubic
+(b) How many miles per hour is this? foot?
+32. Acaristravelingataspeedof33m/s.(a)Whatisits 44. A furlong is 220 yd. A fortnight is 2 weeks. Convert
+speedinkilometersperhour?(b)Isitexceedingthe90km/ a speed of one furlong per fortnight to millimeters per
+h speed limit? second.
+33. InSIunits,speedsaremeasuredinmeterspersecond 45. Ittakes 2π radians(rad)togetaroundacircle,which
+(m/s). But, depending on where you live, you’re probably
+is the same as 360°. How many radians are in 1°?
+more comfortable of thinking of speeds in terms of either
+kilometers per hour (km/h) or miles per hour (mi/h). In
+this problem, you will see that 1 m/s is roughly 4 km/h 46. Light travels a distance of about 3×108 m/s. A
+or 2 mi/h, which is handy to use when developing your light-minuteisthedistancelighttravelsin1min.IftheSun
+physical intuition. More precisely, show that (a) is 1.5×1011m from Earth, how far away is it in light-
+1.0m/s=3.6km/h and (b) 1.0m/s=2.2mi/h.
+minutes?
+34. American football is played on a 100-yd-long field,
+47. Alight-nanosecondisthedistancelighttravelsin1ns.
+excluding the end zones. How long is the field in meters?
+Convert 1 ft to light-nanoseconds.
+(Assume that 1 m = 3.281 ft.)
+48. Anelectronhasamassof 9.11×10−31 kg. Aproton
+35. Soccerfieldsvaryinsize.Alargesoccerfieldis115
+m long and 85.0 m wide. What is its area in square feet? has a mass of 1.67×10−27 kg. What is the mass of a
+(Assume that 1 m = 3.281 ft.)
+proton in electron-masses?
+36. Whatistheheightinmetersofapersonwhois6ft1.0
+49. Afluidounceisabout30mL.Whatisthevolumeofa
+in. tall?
+12 fl-oz can of soda pop in cubic meters?40 Chapter 1 | Units and Measurement
+59. EstimatethenumberofmoleculesthatmakeupEarth,
+1.4Dimensional Analysis assuming an average molecular mass of 30 g/mol. (Note
+there are on the order of 1024objects per mole.)
+50. Astudent istrying toremember some formulas from
+geometry. In what follows, assume A is area, V is
+60. Estimate the surface area of a person.
+volume, and all other variables are lengths. Determine
+which formulas are dimensionally consistent. (a)
+V =πr2h; (b) A=2πr2+2πrh; (c) V =0.5bh; (d) 61. Roughlyhowmanysolarsystemswouldittaketotile
+the disk of the Milky Way?
+V =πd2; (e) V =πd3 /6.
+62. (a)EstimatethedensityoftheMoon.(b)Estimatethe
+51. Consider the physical quantities s, v, a, and t with diameter of the Moon. (c) Given that the Moon subtends
+dimensions [s]=L, [v]=LT−1, [a]=LT−2, and at an angle of about half a degree in the sky, estimate its
+distance from Earth.
+[t]=T. Determine whether each of the following
+equations is dimensionally consistent. (a) v2=2as; (b) 63. TheaveragedensityoftheSunisontheorder103kg/
+m3.(a)EstimatethediameteroftheSun.(b)Giventhatthe
+s=vt2+0.5at2; (c) v=s/t; (d) a=v/t.
+Sunsubtendsatanangleofabouthalfadegreeinthesky,
+estimate its distance from Earth.
+52. Consider the physical quantities m, s, v, a,
+and t with dimensions [m] = M, [s] = L, [v] = LT–1, 64. Estimate the mass of a virus.
+[a] = LT–2, and [t] = T. Assuming each of the following
+equations is dimensionally consistent, find the dimension 65. A floating-point operation is a single arithmetic
+ofthequantityontheleft-handsideoftheequation:(a)F= operation such as addition, subtraction, multiplication, or
+ma; (b)K= 0.5mv2; (c)p=mv; (d)W=mas; (e)L = mvr. division. (a) Estimate the maximum number of floating-
+point operations a human being could possibly perform in
+53. Suppose quantity s is a length and quantity t is a alifetime. (b)Howlongwouldittakeasupercomputerto
+perform that many floating-point operations?
+time. Suppose the quantities v and a are defined by v
+= ds/dt and a = dv/dt. (a) What is the dimension of v?
+(b)Whatisthedimensionofthequantitya?Whatarethe
+1.6Significant Figures
+dimensions of (c) ∫vdt, (d) ∫adt, and (e)da/dt?
+66. Considertheequation4000/400=10.0.Assumingthe
+numberofsignificantfiguresintheansweriscorrect,what
+canyousayaboutthenumberofsignificantfiguresin4000
+54. Suppose [V] = L3, [ρ]=ML–3 , and [t] = T. (a)
+and 400?
+What is the dimension of ∫ρdV? (b) What is the
+67. Suppose your bathroom scale reads your mass as 65
+dimension of dV/dt? (c) What is the dimension of
+kg with a 3% uncertainty. What is the uncertainty in your
+ρ(dV/dt)?
+mass (in kilograms)?
+55. The arc length formula says the length s of arc 68. Agood-qualitymeasuringtapecanbeoffby0.50cm
+subtendedbyangle Ɵ inacircleofradius r isgivenby over a distance of 20 m. What is its percent uncertainty?
+the equation s=r Ɵ. What are the dimensions of (a) s,
+(b)r, and (c) Ɵ? 69. Aninfant’spulserateismeasuredtobe130±5beats/
+min. What is the percent uncertainty in this measurement?
+70. (a)Supposethatapersonhasanaverageheartrateof
+1.5Estimates and Fermi Calculations
+72.0beats/min.Howmanybeatsdoesheorshehavein2.0
+56. Assumingthehumanbodyismadeprimarilyofwater, years? (b) In 2.00 years? (c) In 2.000 years?
+estimate the volume of a person.
+71. Acancontains375mLofsoda.Howmuchisleftafter
+57. Assumingthehumanbodyisprimarilymadeofwater, 308 mL is removed?
+estimatethenumberofmoleculesinit.(Notethatwaterhas
+a molecular mass of 18 g/mol and there are roughly 1024
+72. State how many significant figures are proper in the
+atoms in a mole.)
+results of the following calculations: (a)
+(106.7)(98.2)/ (46.210)(1.01); (b) (18.7)2; (c)
+58. Estimate the mass of air in a classroom.
+This OpenStax book is available for free at http://cnx.org/content/col12031/1.10Chapter 1 | Units and Measurement 41
+⎛ −19⎞ ±0.5s,whatistheheartrateanditsuncertaintyinbeatsper
+1.60×10 (3712)
+⎝ ⎠
+minute?
+73. (a) How many significant figures are in the numbers 77. What is the area of a circle 3.102 cm in diameter?
+99 and 100.? (b) If the uncertainty in each number is 1,
+what is the percent uncertainty in each? (c) Which is a
+78. Determine the number of significant figures in the
+moremeaningfulwaytoexpresstheaccuracyofthesetwo
+following measurements: (a) 0.0009, (b) 15,450.0, (c)
+numbers: significant figures or percent uncertainties?
+6×103, (d) 87.990, and (e) 30.42.
+74. (a)Ifyourspeedometerhasanuncertaintyof2.0km/h
+79. Perform the following calculations and express your
+ataspeedof90km/h,whatisthepercentuncertainty?(b)
+answer using the correct number of significant digits. (a)
+Ifithasthesamepercentuncertaintywhenitreads60km/
+A woman has two bags weighing 13.5 lb and one bag
+h, what is the range of speeds you could be going?
+with a weight of 10.2 lb. What is the total weight of the
+bags? (b) The force F on an object is equal to its mass m
+75. (a) A person’s blood pressure is measured to be multiplied by its acceleration a. If a wagon with mass 55
+120±2mm Hg. What is its percent uncertainty? (b) kgacceleratesatarateof0.0255m/s2,whatistheforceon
+Assuming the same percent uncertainty, what is the thewagon?(Theunitofforceiscalledthenewtonanditis
+uncertainty in a blood pressure measurement of 80 mm expressed with the symbol N.)
+Hg?
+76. Apersonmeasureshisorherheartratebycountingthe
+numberofbeatsin30s.If40±1beatsarecountedin30.0
+ADDITIONAL PROBLEMS
+80. Considertheequationy=mt+b,wherethedimension 84. Thesidesofasmallrectangular boxaremeasuredto
+of y is length and the dimension of t is time, and m and b be 1.80 ± 0.1 cm, 2.05 ± 0.02 cm, and 3.1 ± 0.1 cm long.
+areconstants.WhatarethedimensionsandSIunitsof(a) Calculate its volume and uncertainty in cubic centimeters.
+mand (b)b?
+85. When nonmetric units were used in the United
+81. Consider the equation Kingdom,aunitofmasscalledthepound-mass(lbm)was
+s=s +v t+a t2/2+ j t3 /6+S t4/24+ct5 /120, used,where1lbm=0.4539kg.(a)Ifthereisanuncertainty
+0 0 0 0 0 of 0.0001 kg in the pound-mass unit, what is its percent
+wheresisalengthandtisatime.Whatarethedimensions
+uncertainty? (b) Based on that percent uncertainty, what
+andSIunitsof(a) s 0, (b) v 0, (c) a 0, (d) j 0, (e) S 0, mass in pound-mass has an uncertainty of 1 kg when
+and (f)c? converted to kilograms?
+82. (a) A car speedometer has a 5% uncertainty. What is 86. The length and width of a rectangular room are
+the range of possible speeds when it reads 90 km/h? (b) measured to be 3.955 ± 0.005 m and 3.050 ± 0.005 m.
+Convert this range to miles per hour. Note 1 km = 0.6214 Calculatetheareaoftheroomanditsuncertaintyinsquare
+mi. meters.
+83. Amarathonrunnercompletesa42.188-kmcoursein2 87. A car engine moves a piston with a circular cross-
+h,30min,and12s.Thereisanuncertaintyof25minthe section of 7.500 ± 0.002 cm in diameter a distance of
+distance traveled and an uncertainty of 1 s in the elapsed 3.250 ± 0.001 cm to compress the gas in the cylinder. (a)
+time. (a) Calculate the percent uncertainty in the distance. By what amount is the gas decreased in volume in cubic
+(b)Calculatethepercentuncertaintyintheelapsedtime.(c) centimeters? (b) Find the uncertainty in this volume.
+Whatistheaveragespeedinmeterspersecond?(d)What
+is the uncertainty in the average speed?
+CHALLENGE PROBLEMS
+88. ThefirstatomicbombwasdetonatedonJuly16,1945, In1947,theU.S.governmentdeclassifiedafilmreelofthe
+at the Trinity test site about 200 mi south of Los Alamos. explosion.Fromthisfilmreel,BritishphysicistG.I.Taylor42 Chapter 1 | Units and Measurement
+was able to determine the rate at which the radius of the (that is, kt TNT). Compare your answer with the quick-
+fireballfromtheblastgrew.Usingdimensionalanalysis,he and-dirtyestimateof10ktTNTmadebyphysicistEnrico
+was then able to deduce the amount of energy released in Fermishortlyafterwitnessingtheexplosionfromwhatwas
+the explosion, which was a closely guarded secret at the thoughttobeasafedistance.(Reportedly,Fermimadehis
+time.Becauseofthis,Taylordidnotpublishhisresultsuntil estimate by dropping some shredded bits of paper right
+1950.Thisproblemchallengesyoutorecreatethisfamous beforetheremnantsoftheshockwavehithimandlooked
+calculation.(a)Usingkeenphysicalinsightdevelopedfrom to see how far they were carried by it.)
+years of experience, Taylor decided the radius r of the
+fireball should depend only on time since the explosion, 89. The purpose of this problem is to show the entire
+t, the density of the air, ρ, and the energy of the initial concept of dimensional consistency can be summarized
+explosion, E. Thus, he made the educated guess that by the old saying “You can’t add apples and oranges.” If
+r =kEaρbtc forsomedimensionlessconstantkandsome you have studied power series expansions in a calculus
+course,youknowthestandardmathematicalfunctionssuch
+unknownexponentsa,b,andc.Giventhat[E]=ML2T–2,
+as trigonometric functions, logarithms, and exponential
+determine the values of the exponents necessary to make
+functions can be expressed as infinite sums of the form
+this equation dimensionally consistent. (Hint: Notice the
+∞
+equationimpliesthat k=rE−aρ−bt−c andthat [k]=1. ∑ a nxn =a 0+a 1x+a 2x2+a 3x3 + ⋯, where
+n=0
+) (b) By analyzing data from high-energy conventional
+the a are dimensionless constants for all
+explosives,Taylorfoundtheformulahederivedseemedto n
+bevalidaslongastheconstantkhadthevalue1.03.From n=0, 1, 2, ⋯ and x is the argument of the function.
+the film reel, he was able to determine many values of r (If you have not studied power series in calculus yet, just
+and the corresponding values of t. For example, he found trust us.) Use this fact to explain why the requirement
+that after 25.0 ms, the fireball had a radius of 130.0 m. that all terms in an equation have the same dimensions is
+Usethesevalues,alongwithanaverageairdensityof1.25 sufficient as a definition of dimensional consistency. That
+kg/m3, to calculate the initial energy release of the Trinity is, it actually implies the arguments of standard
+detonation in joules (J). (Hint: To get energy in joules, mathematicalfunctionsmustbedimensionless,soitisnot
+you need to make sure all the numbers you substitute in really necessary to make this latter condition a separate
+are expressed in terms of SI base units.) (c) The energy requirementofthedefinitionofdimensionalconsistencyas
+releasedinlargeexplosionsisoftencitedinunitsof“tons we have done in this section.
+of TNT” (abbreviated “t TNT”), where 1 t TNT is about
+4.2 GJ. Convert your answer to (b) into kilotons of TNT
+This OpenStax book is available for free at http://cnx.org/content/col12031/1.10

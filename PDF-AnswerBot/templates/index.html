@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Upload PDF</title>
+    <link rel="stylesheet" href="/PDF-AnswerBot/static/styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Upload a PDF</h1>
+        <form action="/PDF-AnswerBot/uploads" method="post" enctype="multipart/form-data">
+            <input type="file" name="file" accept=".pdf">
+            <button type="submit">Upload</button>
+        </form>
+    </div>
+</body>
+</html>

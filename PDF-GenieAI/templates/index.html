@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chat with PDF using gemini</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+</head>
+<body>
+    <div class="container">
+        <h1>Chat with PDF using gemini </h1>
+        <form method="POST" enctype="multipart/form-data">
+            <label for="pdf_docs">Upload PDF Files:</label>
+            <input type="file" id="pdf_docs" name="pdf_docs" multiple required>
+            <br><br>
+            <label for="user_question">Ask a Question:</label>
+            <input type="text" id="user_question" name="user_question" required>
+            <br><br>
+            <button type="submit">Submit & Process</button>
+        </form>
+    </div>
+</body>
+</html>
